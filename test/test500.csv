@@ -1,0 +1,501 @@
+points,price,review_title,review_description,country,designation,province,region_1,winery,variety,variety_encoded
+91,119.03,Very Good,Rich and flavorful,Chile,Special Edition,California,Curico Valley,Winery E,Merlot,2
+92,117.54,Very Good,Light and crisp,France,Grand Cru,Maule Valley,Napa Valley,Winery D,Pinot Noir,3
+90,176.83,Very Good,Smooth and fruity,Chile,Special Edition,Maule Valley,Chianti,Winery E,Syrah,4
+96,116.0,Average,Rich and flavorful,Chile,Special Edition,Maule Valley,Curico Valley,Winery D,Cabernet Sauvignon,0
+96,192.36,Very Good,Smooth and fruity,Italy,Grand Cru,Bordeaux,Chianti,Winery D,Cabernet Sauvignon,0
+83,19.25,Bad,Rich and flavorful,France,Grand Cru,Maule Valley,Curico Valley,Winery A,Syrah,4
+87,28.62,Excellent,Light and crisp,France,Special Edition,Maule Valley,Curico Valley,Winery B,Pinot Noir,3
+84,18.37,Average,Bold and tannic,Italy,Grand Cru,Bordeaux,Napa Valley,Winery E,Pinot Noir,3
+95,45.2,Very Good,Bold and tannic,Spain,Reserve,Tuscany,Medoc,Winery D,Pinot Noir,3
+83,112.84,Excellent,Smooth and fruity,France,Grand Cru,California,Curico Valley,Winery E,Cabernet Sauvignon,0
+94,132.66,Good,Light and crisp,US,Grand Cru,Maule Valley,Curico Valley,Winery E,Merlot,2
+91,18.66,Very Good,Bold and tannic,Italy,Special Edition,California,Napa Valley,Winery D,Pinot Noir,3
+84,189.73,Excellent,Rich and flavorful,France,Reserve,Rioja,Medoc,Winery C,Cabernet Sauvignon,0
+95,170.01,Bad,Bold and tannic,Spain,Estate,California,La Rioja,Winery B,Cabernet Sauvignon,0
+93,66.36,Good,Smooth and fruity,France,Estate,Bordeaux,La Rioja,Winery B,Merlot,2
+89,24.67,Bad,Smooth and fruity,Chile,Vintage,California,Medoc,Winery A,Syrah,4
+86,42.28,Excellent,Light and crisp,US,Grand Cru,California,Chianti,Winery A,Syrah,4
+92,34.12,Bad,Smooth and fruity,Italy,Grand Cru,California,Napa Valley,Winery A,Pinot Noir,3
+99,33.42,Excellent,Bold and tannic,Chile,Reserve,Tuscany,Medoc,Winery B,Pinot Noir,3
+84,108.53,Excellent,Bold and tannic,Spain,Estate,Tuscany,La Rioja,Winery C,Merlot,2
+82,56.71,Bad,Bold and tannic,Chile,Vintage,Rioja,Curico Valley,Winery B,Pinot Noir,3
+94,78.05,Excellent,Bold and tannic,Chile,Reserve,Bordeaux,La Rioja,Winery B,Merlot,2
+83,198.01,Very Good,Light and crisp,Spain,Grand Cru,California,Curico Valley,Winery B,Cabernet Sauvignon,0
+94,140.02,Excellent,Rich and flavorful,Chile,Estate,California,Napa Valley,Winery B,Pinot Noir,3
+93,190.31,Average,Rich and flavorful,Italy,Vintage,California,Curico Valley,Winery C,Cabernet Sauvignon,0
+99,37.09,Excellent,Light and crisp,France,Special Edition,California,Medoc,Winery A,Chardonnay,1
+98,82.61,Average,Smooth and fruity,Chile,Estate,Tuscany,Curico Valley,Winery E,Merlot,2
+92,115.4,Excellent,Rich and flavorful,Italy,Vintage,Rioja,Chianti,Winery A,Chardonnay,1
+89,24.58,Excellent,Smooth and fruity,France,Reserve,Maule Valley,Medoc,Winery A,Pinot Noir,3
+84,10.8,Bad,Rich and flavorful,France,Special Edition,Bordeaux,Napa Valley,Winery E,Cabernet Sauvignon,0
+99,137.38,Very Good,Smooth and fruity,Chile,Vintage,California,Medoc,Winery B,Pinot Noir,3
+99,131.95,Very Good,Light and crisp,Italy,Vintage,Rioja,Chianti,Winery C,Chardonnay,1
+85,88.05,Good,Bold and tannic,Chile,Grand Cru,Maule Valley,Napa Valley,Winery C,Pinot Noir,3
+83,103.03,Bad,Smooth and fruity,Spain,Estate,Rioja,La Rioja,Winery A,Syrah,4
+81,88.93,Bad,Bold and tannic,France,Grand Cru,Tuscany,Chianti,Winery E,Chardonnay,1
+95,14.56,Very Good,Smooth and fruity,Chile,Special Edition,Maule Valley,Napa Valley,Winery D,Pinot Noir,3
+97,73.72,Bad,Smooth and fruity,France,Vintage,Rioja,Curico Valley,Winery B,Cabernet Sauvignon,0
+84,43.65,Very Good,Smooth and fruity,Italy,Grand Cru,Tuscany,Medoc,Winery A,Pinot Noir,3
+83,28.7,Bad,Smooth and fruity,US,Estate,Rioja,Napa Valley,Winery C,Cabernet Sauvignon,0
+92,191.78,Excellent,Smooth and fruity,Chile,Special Edition,Rioja,Medoc,Winery E,Syrah,4
+98,123.88,Very Good,Bold and tannic,Chile,Reserve,Maule Valley,Curico Valley,Winery E,Pinot Noir,3
+81,148.44,Very Good,Smooth and fruity,France,Grand Cru,Tuscany,Napa Valley,Winery A,Syrah,4
+92,69.92,Average,Bold and tannic,Italy,Special Edition,California,La Rioja,Winery D,Chardonnay,1
+90,84.7,Bad,Light and crisp,Spain,Reserve,Bordeaux,Chianti,Winery C,Cabernet Sauvignon,0
+83,55.02,Bad,Rich and flavorful,Italy,Grand Cru,Maule Valley,Napa Valley,Winery A,Chardonnay,1
+99,28.42,Very Good,Smooth and fruity,Chile,Special Edition,Tuscany,Curico Valley,Winery D,Cabernet Sauvignon,0
+99,44.02,Excellent,Rich and flavorful,Spain,Special Edition,Rioja,Napa Valley,Winery E,Syrah,4
+94,161.53,Excellent,Bold and tannic,Italy,Grand Cru,Tuscany,Medoc,Winery B,Merlot,2
+83,138.73,Excellent,Light and crisp,US,Special Edition,Bordeaux,Napa Valley,Winery C,Pinot Noir,3
+88,113.92,Bad,Light and crisp,France,Vintage,Bordeaux,La Rioja,Winery C,Syrah,4
+86,100.27,Average,Light and crisp,Italy,Grand Cru,California,Napa Valley,Winery D,Cabernet Sauvignon,0
+98,185.26,Very Good,Rich and flavorful,Italy,Special Edition,California,Chianti,Winery A,Cabernet Sauvignon,0
+98,23.82,Good,Bold and tannic,US,Reserve,Bordeaux,Napa Valley,Winery E,Cabernet Sauvignon,0
+85,63.31,Average,Smooth and fruity,Chile,Reserve,Maule Valley,Medoc,Winery D,Cabernet Sauvignon,0
+85,76.49,Good,Smooth and fruity,France,Vintage,Maule Valley,Napa Valley,Winery B,Pinot Noir,3
+99,158.66,Average,Bold and tannic,Italy,Grand Cru,Rioja,La Rioja,Winery B,Chardonnay,1
+94,198.58,Excellent,Rich and flavorful,Spain,Special Edition,California,Curico Valley,Winery B,Merlot,2
+94,55.73,Bad,Smooth and fruity,Italy,Special Edition,Rioja,Napa Valley,Winery D,Pinot Noir,3
+99,176.12,Good,Bold and tannic,France,Reserve,California,Napa Valley,Winery E,Cabernet Sauvignon,0
+88,167.82,Average,Smooth and fruity,Italy,Vintage,Bordeaux,Chianti,Winery C,Pinot Noir,3
+83,52.68,Bad,Light and crisp,US,Reserve,Maule Valley,La Rioja,Winery A,Syrah,4
+97,85.87,Good,Smooth and fruity,Italy,Reserve,Maule Valley,Curico Valley,Winery C,Cabernet Sauvignon,0
+97,87.84,Very Good,Rich and flavorful,Italy,Vintage,Bordeaux,Medoc,Winery E,Merlot,2
+84,195.86,Average,Bold and tannic,Spain,Grand Cru,Rioja,Napa Valley,Winery C,Cabernet Sauvignon,0
+99,44.37,Very Good,Rich and flavorful,US,Special Edition,Rioja,Curico Valley,Winery D,Merlot,2
+90,161.84,Excellent,Bold and tannic,US,Grand Cru,Tuscany,Medoc,Winery B,Merlot,2
+84,73.5,Very Good,Light and crisp,Italy,Estate,California,La Rioja,Winery E,Chardonnay,1
+83,148.87,Very Good,Bold and tannic,Spain,Estate,Rioja,La Rioja,Winery E,Chardonnay,1
+91,89.8,Average,Smooth and fruity,Italy,Estate,Bordeaux,Curico Valley,Winery C,Pinot Noir,3
+81,119.89,Excellent,Smooth and fruity,Italy,Vintage,Rioja,Medoc,Winery D,Pinot Noir,3
+92,168.2,Very Good,Light and crisp,France,Reserve,Maule Valley,La Rioja,Winery C,Merlot,2
+89,162.79,Bad,Bold and tannic,France,Grand Cru,California,Curico Valley,Winery C,Cabernet Sauvignon,0
+88,174.62,Good,Light and crisp,Spain,Special Edition,Tuscany,La Rioja,Winery E,Syrah,4
+89,21.33,Very Good,Smooth and fruity,Chile,Estate,California,La Rioja,Winery C,Syrah,4
+86,141.49,Excellent,Rich and flavorful,France,Grand Cru,Maule Valley,La Rioja,Winery B,Cabernet Sauvignon,0
+83,36.6,Very Good,Light and crisp,Chile,Estate,Maule Valley,Chianti,Winery C,Cabernet Sauvignon,0
+98,89.01,Good,Rich and flavorful,US,Estate,Maule Valley,Medoc,Winery B,Chardonnay,1
+89,114.23,Excellent,Rich and flavorful,France,Special Edition,Maule Valley,Curico Valley,Winery E,Syrah,4
+82,86.52,Average,Bold and tannic,France,Vintage,Bordeaux,Curico Valley,Winery D,Merlot,2
+98,108.73,Excellent,Light and crisp,Spain,Reserve,Tuscany,Medoc,Winery B,Pinot Noir,3
+81,199.34,Average,Rich and flavorful,Chile,Vintage,Maule Valley,Medoc,Winery D,Chardonnay,1
+99,35.69,Excellent,Rich and flavorful,France,Grand Cru,Maule Valley,Medoc,Winery D,Syrah,4
+89,138.34,Good,Bold and tannic,France,Vintage,Rioja,Medoc,Winery B,Cabernet Sauvignon,0
+81,85.24,Good,Bold and tannic,Spain,Grand Cru,Tuscany,Napa Valley,Winery E,Syrah,4
+81,35.27,Excellent,Smooth and fruity,Spain,Grand Cru,California,Curico Valley,Winery A,Merlot,2
+96,40.16,Very Good,Rich and flavorful,Chile,Reserve,Tuscany,Napa Valley,Winery D,Chardonnay,1
+95,190.36,Good,Smooth and fruity,US,Special Edition,Tuscany,La Rioja,Winery D,Cabernet Sauvignon,0
+95,177.12,Average,Rich and flavorful,US,Reserve,Tuscany,La Rioja,Winery E,Merlot,2
+93,182.34,Average,Smooth and fruity,Italy,Vintage,Maule Valley,Curico Valley,Winery E,Pinot Noir,3
+86,198.39,Bad,Bold and tannic,France,Grand Cru,Maule Valley,La Rioja,Winery C,Chardonnay,1
+90,49.58,Average,Light and crisp,Chile,Estate,Bordeaux,Medoc,Winery E,Merlot,2
+80,77.53,Bad,Bold and tannic,France,Estate,California,Napa Valley,Winery D,Merlot,2
+90,137.15,Excellent,Smooth and fruity,Chile,Grand Cru,Rioja,Medoc,Winery B,Cabernet Sauvignon,0
+83,101.92,Excellent,Smooth and fruity,Chile,Reserve,Tuscany,La Rioja,Winery A,Pinot Noir,3
+86,89.49,Excellent,Light and crisp,Chile,Special Edition,California,Napa Valley,Winery C,Merlot,2
+94,77.98,Very Good,Rich and flavorful,France,Reserve,California,Medoc,Winery B,Chardonnay,1
+97,122.82,Very Good,Smooth and fruity,Spain,Grand Cru,Bordeaux,Curico Valley,Winery A,Merlot,2
+91,119.36,Bad,Smooth and fruity,France,Grand Cru,Rioja,Medoc,Winery A,Syrah,4
+96,40.68,Average,Smooth and fruity,Chile,Special Edition,Tuscany,La Rioja,Winery A,Chardonnay,1
+80,99.63,Average,Light and crisp,Italy,Vintage,Rioja,Napa Valley,Winery B,Chardonnay,1
+90,115.16,Excellent,Bold and tannic,US,Vintage,Bordeaux,Curico Valley,Winery C,Merlot,2
+80,118.35,Good,Smooth and fruity,Chile,Special Edition,Maule Valley,Napa Valley,Winery C,Cabernet Sauvignon,0
+94,49.92,Very Good,Light and crisp,Italy,Vintage,California,Curico Valley,Winery A,Chardonnay,1
+89,151.03,Very Good,Smooth and fruity,Spain,Estate,Tuscany,Napa Valley,Winery B,Syrah,4
+86,14.79,Excellent,Rich and flavorful,Chile,Vintage,Maule Valley,La Rioja,Winery A,Cabernet Sauvignon,0
+81,77.42,Very Good,Light and crisp,Italy,Vintage,Bordeaux,Curico Valley,Winery E,Cabernet Sauvignon,0
+89,158.24,Excellent,Smooth and fruity,Chile,Vintage,Rioja,Chianti,Winery C,Cabernet Sauvignon,0
+83,117.14,Bad,Light and crisp,France,Estate,California,Napa Valley,Winery D,Chardonnay,1
+91,59.62,Average,Smooth and fruity,Italy,Vintage,Tuscany,Napa Valley,Winery A,Cabernet Sauvignon,0
+98,142.04,Good,Bold and tannic,France,Estate,Maule Valley,Medoc,Winery E,Merlot,2
+90,117.8,Average,Smooth and fruity,France,Special Edition,Maule Valley,Curico Valley,Winery C,Cabernet Sauvignon,0
+87,161.29,Average,Light and crisp,Italy,Reserve,California,Chianti,Winery B,Syrah,4
+97,149.65,Bad,Rich and flavorful,US,Special Edition,Rioja,La Rioja,Winery C,Pinot Noir,3
+90,125.92,Very Good,Rich and flavorful,Italy,Reserve,Bordeaux,Medoc,Winery B,Syrah,4
+90,102.75,Good,Rich and flavorful,US,Special Edition,Rioja,Chianti,Winery B,Chardonnay,1
+92,35.3,Very Good,Smooth and fruity,Chile,Reserve,Rioja,Curico Valley,Winery A,Cabernet Sauvignon,0
+82,59.65,Average,Bold and tannic,Chile,Reserve,Rioja,Chianti,Winery A,Cabernet Sauvignon,0
+91,89.63,Excellent,Smooth and fruity,Italy,Grand Cru,California,Napa Valley,Winery C,Merlot,2
+82,123.87,Average,Rich and flavorful,Chile,Reserve,California,Napa Valley,Winery E,Cabernet Sauvignon,0
+89,107.6,Very Good,Light and crisp,Spain,Reserve,Bordeaux,Medoc,Winery C,Syrah,4
+96,64.76,Average,Rich and flavorful,France,Grand Cru,Rioja,Curico Valley,Winery D,Chardonnay,1
+81,11.23,Excellent,Light and crisp,France,Vintage,California,Curico Valley,Winery B,Pinot Noir,3
+96,104.29,Bad,Bold and tannic,US,Vintage,Bordeaux,Chianti,Winery B,Cabernet Sauvignon,0
+95,64.27,Very Good,Light and crisp,Chile,Grand Cru,Bordeaux,Medoc,Winery A,Pinot Noir,3
+81,149.58,Average,Smooth and fruity,US,Estate,Rioja,Curico Valley,Winery E,Cabernet Sauvignon,0
+99,14.55,Very Good,Smooth and fruity,France,Reserve,Tuscany,Napa Valley,Winery A,Chardonnay,1
+85,121.12,Bad,Smooth and fruity,France,Reserve,Rioja,Chianti,Winery D,Syrah,4
+89,188.88,Average,Light and crisp,Chile,Grand Cru,Tuscany,La Rioja,Winery C,Chardonnay,1
+89,43.14,Average,Smooth and fruity,Spain,Grand Cru,Bordeaux,Napa Valley,Winery C,Pinot Noir,3
+87,99.61,Very Good,Smooth and fruity,Spain,Estate,California,Medoc,Winery E,Cabernet Sauvignon,0
+80,27.37,Very Good,Smooth and fruity,Chile,Vintage,Maule Valley,Curico Valley,Winery A,Pinot Noir,3
+92,128.88,Excellent,Bold and tannic,Chile,Special Edition,Bordeaux,Napa Valley,Winery A,Syrah,4
+88,114.6,Bad,Light and crisp,US,Vintage,California,La Rioja,Winery D,Chardonnay,1
+89,87.4,Excellent,Light and crisp,Chile,Reserve,Bordeaux,La Rioja,Winery C,Pinot Noir,3
+94,109.06,Average,Rich and flavorful,Spain,Grand Cru,Rioja,Medoc,Winery A,Pinot Noir,3
+84,180.35,Very Good,Light and crisp,Chile,Estate,Tuscany,Napa Valley,Winery E,Syrah,4
+95,47.3,Average,Bold and tannic,US,Vintage,Bordeaux,Chianti,Winery C,Cabernet Sauvignon,0
+92,14.29,Average,Light and crisp,US,Estate,California,Napa Valley,Winery D,Pinot Noir,3
+99,173.72,Good,Bold and tannic,US,Vintage,Rioja,La Rioja,Winery E,Syrah,4
+97,119.65,Good,Bold and tannic,US,Reserve,Maule Valley,Medoc,Winery B,Cabernet Sauvignon,0
+90,179.23,Average,Light and crisp,Italy,Special Edition,Rioja,Medoc,Winery D,Cabernet Sauvignon,0
+88,123.42,Very Good,Rich and flavorful,Chile,Estate,Tuscany,Chianti,Winery E,Chardonnay,1
+95,163.93,Average,Smooth and fruity,France,Estate,Rioja,Medoc,Winery A,Syrah,4
+81,91.64,Good,Smooth and fruity,Chile,Special Edition,Maule Valley,Medoc,Winery B,Cabernet Sauvignon,0
+81,152.47,Very Good,Light and crisp,Italy,Estate,California,Medoc,Winery D,Chardonnay,1
+91,183.48,Average,Light and crisp,US,Estate,Bordeaux,Medoc,Winery A,Merlot,2
+87,118.7,Bad,Bold and tannic,Italy,Vintage,Tuscany,Medoc,Winery B,Syrah,4
+88,44.35,Bad,Light and crisp,Spain,Vintage,Maule Valley,La Rioja,Winery C,Merlot,2
+91,61.07,Average,Bold and tannic,Spain,Special Edition,Tuscany,Napa Valley,Winery A,Cabernet Sauvignon,0
+88,47.74,Very Good,Rich and flavorful,Chile,Reserve,Rioja,Curico Valley,Winery E,Syrah,4
+89,56.9,Average,Light and crisp,Chile,Estate,Tuscany,Medoc,Winery D,Chardonnay,1
+81,68.22,Average,Smooth and fruity,France,Reserve,Maule Valley,Curico Valley,Winery B,Cabernet Sauvignon,0
+95,115.48,Good,Smooth and fruity,France,Special Edition,Bordeaux,Curico Valley,Winery A,Syrah,4
+99,121.72,Bad,Light and crisp,Spain,Special Edition,Bordeaux,La Rioja,Winery C,Syrah,4
+86,91.03,Good,Bold and tannic,US,Vintage,Tuscany,Medoc,Winery D,Merlot,2
+81,126.93,Good,Smooth and fruity,Italy,Estate,California,Curico Valley,Winery D,Cabernet Sauvignon,0
+80,25.5,Average,Bold and tannic,France,Grand Cru,Tuscany,Medoc,Winery A,Chardonnay,1
+98,26.68,Good,Light and crisp,France,Special Edition,Rioja,Chianti,Winery C,Chardonnay,1
+83,42.65,Bad,Light and crisp,US,Estate,Bordeaux,Chianti,Winery B,Cabernet Sauvignon,0
+81,108.43,Good,Smooth and fruity,US,Reserve,Bordeaux,Chianti,Winery A,Cabernet Sauvignon,0
+93,50.66,Bad,Light and crisp,Chile,Vintage,Bordeaux,Curico Valley,Winery B,Pinot Noir,3
+81,63.82,Good,Rich and flavorful,Italy,Reserve,California,Chianti,Winery D,Merlot,2
+94,86.06,Bad,Rich and flavorful,US,Special Edition,California,La Rioja,Winery B,Cabernet Sauvignon,0
+91,164.25,Good,Smooth and fruity,France,Special Edition,Maule Valley,La Rioja,Winery C,Cabernet Sauvignon,0
+84,12.63,Good,Rich and flavorful,France,Reserve,Tuscany,Curico Valley,Winery E,Pinot Noir,3
+99,133.38,Very Good,Bold and tannic,Spain,Special Edition,Tuscany,Medoc,Winery C,Pinot Noir,3
+86,137.09,Bad,Smooth and fruity,US,Estate,Rioja,Napa Valley,Winery B,Syrah,4
+89,161.74,Bad,Smooth and fruity,Chile,Special Edition,Bordeaux,Medoc,Winery A,Chardonnay,1
+93,187.22,Bad,Bold and tannic,Italy,Vintage,California,Medoc,Winery D,Merlot,2
+93,13.83,Excellent,Rich and flavorful,Chile,Estate,Rioja,Medoc,Winery E,Syrah,4
+84,39.22,Good,Rich and flavorful,France,Grand Cru,Rioja,Medoc,Winery A,Cabernet Sauvignon,0
+97,178.37,Bad,Rich and flavorful,Chile,Special Edition,California,Napa Valley,Winery A,Pinot Noir,3
+93,97.12,Excellent,Smooth and fruity,France,Special Edition,Tuscany,Chianti,Winery C,Chardonnay,1
+81,117.27,Very Good,Smooth and fruity,France,Vintage,Bordeaux,Medoc,Winery B,Syrah,4
+91,135.98,Bad,Rich and flavorful,France,Vintage,Tuscany,La Rioja,Winery C,Chardonnay,1
+85,139.02,Bad,Light and crisp,France,Reserve,Rioja,Curico Valley,Winery B,Pinot Noir,3
+83,187.03,Excellent,Rich and flavorful,France,Reserve,Bordeaux,Curico Valley,Winery C,Syrah,4
+92,199.42,Good,Bold and tannic,Spain,Reserve,Maule Valley,La Rioja,Winery A,Syrah,4
+83,146.83,Very Good,Smooth and fruity,Chile,Vintage,Rioja,Medoc,Winery D,Chardonnay,1
+93,64.57,Bad,Bold and tannic,Spain,Reserve,Tuscany,Napa Valley,Winery B,Pinot Noir,3
+95,177.15,Good,Bold and tannic,Spain,Reserve,Tuscany,Chianti,Winery E,Cabernet Sauvignon,0
+83,19.35,Very Good,Smooth and fruity,US,Grand Cru,Tuscany,Curico Valley,Winery E,Syrah,4
+80,53.91,Average,Light and crisp,US,Reserve,California,Chianti,Winery A,Cabernet Sauvignon,0
+92,180.5,Average,Rich and flavorful,US,Special Edition,Rioja,Napa Valley,Winery C,Pinot Noir,3
+83,58.68,Very Good,Bold and tannic,Italy,Vintage,Bordeaux,Curico Valley,Winery C,Syrah,4
+99,51.92,Excellent,Smooth and fruity,US,Estate,Tuscany,Chianti,Winery A,Syrah,4
+97,36.24,Very Good,Bold and tannic,Chile,Grand Cru,Tuscany,Napa Valley,Winery E,Cabernet Sauvignon,0
+85,173.23,Very Good,Rich and flavorful,Spain,Vintage,California,Chianti,Winery E,Merlot,2
+82,105.01,Excellent,Light and crisp,Chile,Vintage,Bordeaux,Medoc,Winery C,Cabernet Sauvignon,0
+92,138.23,Excellent,Light and crisp,US,Special Edition,Rioja,Napa Valley,Winery B,Cabernet Sauvignon,0
+95,55.42,Good,Light and crisp,Italy,Reserve,Maule Valley,Chianti,Winery D,Merlot,2
+84,154.03,Good,Smooth and fruity,Italy,Special Edition,California,Medoc,Winery B,Pinot Noir,3
+83,154.4,Excellent,Smooth and fruity,Spain,Reserve,Rioja,Medoc,Winery E,Pinot Noir,3
+87,69.39,Average,Light and crisp,Chile,Reserve,Maule Valley,Napa Valley,Winery B,Syrah,4
+98,88.03,Average,Rich and flavorful,France,Vintage,Tuscany,La Rioja,Winery D,Chardonnay,1
+93,49.84,Very Good,Rich and flavorful,Chile,Reserve,Tuscany,Curico Valley,Winery B,Chardonnay,1
+86,195.55,Bad,Smooth and fruity,US,Grand Cru,Bordeaux,Napa Valley,Winery B,Syrah,4
+93,132.66,Very Good,Light and crisp,France,Grand Cru,Maule Valley,Medoc,Winery B,Chardonnay,1
+85,187.56,Very Good,Rich and flavorful,Italy,Grand Cru,Tuscany,Medoc,Winery B,Cabernet Sauvignon,0
+91,67.64,Bad,Rich and flavorful,Spain,Vintage,Tuscany,Napa Valley,Winery A,Cabernet Sauvignon,0
+95,158.56,Excellent,Rich and flavorful,Spain,Special Edition,Bordeaux,La Rioja,Winery E,Merlot,2
+96,155.51,Average,Smooth and fruity,Italy,Estate,Rioja,Curico Valley,Winery D,Merlot,2
+92,141.41,Very Good,Light and crisp,US,Reserve,Tuscany,Chianti,Winery E,Syrah,4
+93,193.47,Bad,Bold and tannic,Italy,Estate,California,Napa Valley,Winery A,Syrah,4
+86,84.78,Good,Light and crisp,US,Special Edition,California,Curico Valley,Winery A,Syrah,4
+93,34.84,Very Good,Light and crisp,France,Special Edition,Rioja,Curico Valley,Winery A,Cabernet Sauvignon,0
+94,137.62,Average,Smooth and fruity,Italy,Vintage,Maule Valley,Medoc,Winery A,Chardonnay,1
+91,148.57,Excellent,Rich and flavorful,US,Grand Cru,Bordeaux,Chianti,Winery B,Syrah,4
+96,119.26,Very Good,Rich and flavorful,France,Grand Cru,California,Napa Valley,Winery E,Syrah,4
+88,49.3,Very Good,Smooth and fruity,Italy,Special Edition,California,Medoc,Winery C,Cabernet Sauvignon,0
+94,105.85,Bad,Smooth and fruity,Spain,Vintage,Rioja,Medoc,Winery D,Cabernet Sauvignon,0
+91,69.32,Good,Smooth and fruity,Italy,Vintage,Maule Valley,La Rioja,Winery A,Cabernet Sauvignon,0
+81,91.22,Good,Smooth and fruity,Chile,Reserve,Maule Valley,Curico Valley,Winery E,Chardonnay,1
+84,132.59,Excellent,Smooth and fruity,Italy,Grand Cru,Rioja,Napa Valley,Winery A,Syrah,4
+92,151.59,Average,Bold and tannic,Chile,Special Edition,California,Napa Valley,Winery A,Pinot Noir,3
+99,54.12,Excellent,Light and crisp,France,Estate,Bordeaux,Napa Valley,Winery A,Pinot Noir,3
+87,87.01,Very Good,Light and crisp,Italy,Grand Cru,California,Medoc,Winery A,Syrah,4
+93,61.14,Very Good,Light and crisp,France,Reserve,Maule Valley,La Rioja,Winery A,Syrah,4
+94,47.74,Good,Rich and flavorful,France,Vintage,California,Chianti,Winery D,Syrah,4
+90,158.84,Average,Bold and tannic,US,Special Edition,Bordeaux,Medoc,Winery E,Syrah,4
+80,182.76,Bad,Light and crisp,France,Grand Cru,Tuscany,Chianti,Winery A,Chardonnay,1
+82,80.34,Average,Rich and flavorful,France,Estate,California,La Rioja,Winery A,Pinot Noir,3
+96,152.74,Very Good,Bold and tannic,Italy,Reserve,Rioja,Curico Valley,Winery A,Merlot,2
+98,180.43,Bad,Bold and tannic,Italy,Reserve,Tuscany,Napa Valley,Winery A,Pinot Noir,3
+93,170.76,Average,Rich and flavorful,Spain,Grand Cru,Rioja,Chianti,Winery B,Pinot Noir,3
+87,44.73,Average,Bold and tannic,US,Estate,Rioja,Medoc,Winery B,Cabernet Sauvignon,0
+92,191.7,Bad,Rich and flavorful,France,Reserve,Rioja,Chianti,Winery C,Syrah,4
+99,81.57,Very Good,Light and crisp,US,Special Edition,California,Curico Valley,Winery A,Syrah,4
+82,74.46,Average,Rich and flavorful,Chile,Reserve,Maule Valley,Napa Valley,Winery C,Syrah,4
+84,21.86,Bad,Bold and tannic,France,Estate,Tuscany,Chianti,Winery D,Cabernet Sauvignon,0
+88,102.37,Very Good,Light and crisp,US,Vintage,Bordeaux,Curico Valley,Winery C,Chardonnay,1
+85,30.71,Bad,Light and crisp,Spain,Vintage,Maule Valley,Medoc,Winery E,Chardonnay,1
+81,57.22,Bad,Smooth and fruity,Spain,Grand Cru,California,La Rioja,Winery B,Merlot,2
+92,70.22,Average,Smooth and fruity,France,Estate,Rioja,Medoc,Winery B,Chardonnay,1
+84,163.68,Very Good,Bold and tannic,Chile,Reserve,Bordeaux,Napa Valley,Winery A,Chardonnay,1
+87,176.34,Average,Rich and flavorful,Spain,Reserve,Tuscany,Medoc,Winery A,Syrah,4
+80,67.47,Excellent,Rich and flavorful,Spain,Vintage,Maule Valley,Medoc,Winery D,Pinot Noir,3
+99,173.15,Excellent,Bold and tannic,Chile,Vintage,Maule Valley,Medoc,Winery D,Chardonnay,1
+91,172.87,Very Good,Light and crisp,US,Special Edition,Bordeaux,Medoc,Winery E,Chardonnay,1
+90,155.28,Bad,Bold and tannic,Spain,Vintage,California,Napa Valley,Winery A,Cabernet Sauvignon,0
+86,37.87,Average,Bold and tannic,Italy,Special Edition,Tuscany,Curico Valley,Winery A,Merlot,2
+94,141.16,Average,Light and crisp,Spain,Reserve,Bordeaux,Chianti,Winery D,Cabernet Sauvignon,0
+90,189.55,Very Good,Rich and flavorful,US,Special Edition,Rioja,La Rioja,Winery D,Syrah,4
+95,139.68,Very Good,Bold and tannic,US,Special Edition,Tuscany,Chianti,Winery D,Pinot Noir,3
+82,73.01,Excellent,Rich and flavorful,France,Grand Cru,Maule Valley,Chianti,Winery B,Merlot,2
+99,105.11,Good,Bold and tannic,Italy,Vintage,Bordeaux,La Rioja,Winery C,Cabernet Sauvignon,0
+93,132.69,Very Good,Light and crisp,US,Special Edition,Maule Valley,Napa Valley,Winery C,Chardonnay,1
+82,107.01,Good,Light and crisp,Chile,Reserve,Maule Valley,La Rioja,Winery A,Chardonnay,1
+80,32.79,Very Good,Smooth and fruity,Italy,Estate,Maule Valley,Napa Valley,Winery B,Merlot,2
+94,69.29,Bad,Light and crisp,Italy,Special Edition,California,Chianti,Winery D,Chardonnay,1
+80,162.46,Bad,Smooth and fruity,Chile,Vintage,Maule Valley,Napa Valley,Winery A,Cabernet Sauvignon,0
+96,173.67,Excellent,Bold and tannic,Spain,Grand Cru,Rioja,Curico Valley,Winery B,Cabernet Sauvignon,0
+81,36.09,Excellent,Rich and flavorful,Chile,Reserve,Rioja,La Rioja,Winery E,Chardonnay,1
+99,190.95,Good,Light and crisp,Chile,Grand Cru,Tuscany,Curico Valley,Winery B,Chardonnay,1
+85,72.48,Very Good,Light and crisp,Spain,Estate,Maule Valley,Chianti,Winery A,Syrah,4
+87,135.84,Average,Light and crisp,Spain,Special Edition,Maule Valley,La Rioja,Winery C,Pinot Noir,3
+95,152.85,Excellent,Bold and tannic,Spain,Special Edition,Bordeaux,Chianti,Winery D,Merlot,2
+98,164.27,Average,Smooth and fruity,Spain,Vintage,California,Curico Valley,Winery E,Cabernet Sauvignon,0
+80,189.69,Average,Bold and tannic,Spain,Special Edition,Tuscany,Chianti,Winery B,Merlot,2
+82,69.45,Very Good,Rich and flavorful,Chile,Reserve,Maule Valley,La Rioja,Winery A,Syrah,4
+82,173.12,Good,Bold and tannic,France,Estate,Bordeaux,La Rioja,Winery A,Cabernet Sauvignon,0
+84,35.02,Very Good,Rich and flavorful,France,Grand Cru,California,Chianti,Winery D,Syrah,4
+91,143.96,Excellent,Light and crisp,US,Estate,Tuscany,La Rioja,Winery A,Syrah,4
+91,150.98,Average,Rich and flavorful,France,Special Edition,Tuscany,La Rioja,Winery A,Chardonnay,1
+99,138.77,Very Good,Rich and flavorful,France,Grand Cru,Maule Valley,Chianti,Winery D,Merlot,2
+92,57.94,Very Good,Smooth and fruity,Chile,Vintage,Tuscany,Curico Valley,Winery E,Merlot,2
+99,175.88,Very Good,Rich and flavorful,Spain,Estate,Bordeaux,La Rioja,Winery C,Chardonnay,1
+88,42.08,Excellent,Rich and flavorful,Spain,Grand Cru,Tuscany,La Rioja,Winery C,Merlot,2
+86,20.19,Good,Bold and tannic,Chile,Grand Cru,Rioja,La Rioja,Winery B,Chardonnay,1
+83,146.32,Very Good,Light and crisp,France,Grand Cru,Bordeaux,La Rioja,Winery E,Cabernet Sauvignon,0
+98,100.34,Excellent,Bold and tannic,Chile,Reserve,California,Chianti,Winery B,Syrah,4
+98,171.33,Average,Bold and tannic,US,Estate,California,Curico Valley,Winery C,Syrah,4
+85,82.85,Bad,Light and crisp,Spain,Grand Cru,Maule Valley,Curico Valley,Winery D,Merlot,2
+92,41.97,Excellent,Light and crisp,Italy,Estate,Maule Valley,Napa Valley,Winery A,Pinot Noir,3
+90,168.92,Bad,Rich and flavorful,US,Grand Cru,Rioja,La Rioja,Winery C,Syrah,4
+92,114.29,Very Good,Rich and flavorful,US,Vintage,California,La Rioja,Winery E,Chardonnay,1
+92,45.95,Very Good,Smooth and fruity,Chile,Vintage,California,Napa Valley,Winery C,Pinot Noir,3
+99,146.87,Excellent,Bold and tannic,France,Vintage,California,Curico Valley,Winery E,Pinot Noir,3
+94,107.11,Bad,Light and crisp,Spain,Special Edition,California,Medoc,Winery E,Syrah,4
+92,124.82,Very Good,Rich and flavorful,Italy,Grand Cru,Tuscany,Medoc,Winery E,Syrah,4
+90,97.57,Average,Light and crisp,US,Special Edition,Bordeaux,Curico Valley,Winery B,Syrah,4
+98,167.45,Good,Rich and flavorful,Italy,Estate,Bordeaux,La Rioja,Winery D,Chardonnay,1
+87,167.62,Good,Smooth and fruity,France,Special Edition,Rioja,Medoc,Winery C,Pinot Noir,3
+99,144.78,Very Good,Smooth and fruity,France,Estate,Tuscany,Chianti,Winery D,Merlot,2
+87,30.03,Bad,Light and crisp,Italy,Estate,California,Chianti,Winery A,Chardonnay,1
+89,169.38,Very Good,Smooth and fruity,Spain,Estate,California,Napa Valley,Winery C,Cabernet Sauvignon,0
+95,137.49,Bad,Light and crisp,France,Special Edition,Maule Valley,Curico Valley,Winery D,Syrah,4
+98,142.43,Average,Rich and flavorful,Italy,Grand Cru,Maule Valley,Curico Valley,Winery D,Pinot Noir,3
+90,78.97,Bad,Bold and tannic,US,Special Edition,Rioja,Medoc,Winery A,Chardonnay,1
+92,177.06,Very Good,Smooth and fruity,Italy,Grand Cru,California,La Rioja,Winery E,Cabernet Sauvignon,0
+88,147.82,Average,Rich and flavorful,Italy,Grand Cru,Rioja,Curico Valley,Winery C,Chardonnay,1
+99,31.39,Excellent,Bold and tannic,Chile,Estate,Tuscany,Medoc,Winery C,Chardonnay,1
+98,87.48,Good,Bold and tannic,France,Special Edition,Bordeaux,Medoc,Winery A,Merlot,2
+95,178.41,Very Good,Bold and tannic,Spain,Grand Cru,California,Curico Valley,Winery E,Merlot,2
+86,18.97,Very Good,Rich and flavorful,Spain,Vintage,Tuscany,Medoc,Winery C,Chardonnay,1
+98,192.67,Very Good,Rich and flavorful,Chile,Grand Cru,California,Napa Valley,Winery C,Cabernet Sauvignon,0
+91,139.04,Average,Light and crisp,Spain,Vintage,Maule Valley,Napa Valley,Winery C,Pinot Noir,3
+94,129.96,Excellent,Bold and tannic,Italy,Special Edition,Rioja,Curico Valley,Winery E,Pinot Noir,3
+93,61.41,Bad,Bold and tannic,Chile,Special Edition,Maule Valley,La Rioja,Winery A,Syrah,4
+90,57.27,Excellent,Bold and tannic,US,Special Edition,Bordeaux,Napa Valley,Winery C,Syrah,4
+89,188.99,Average,Light and crisp,France,Grand Cru,Maule Valley,Napa Valley,Winery D,Pinot Noir,3
+90,66.67,Very Good,Bold and tannic,France,Reserve,California,Curico Valley,Winery E,Chardonnay,1
+85,157.35,Good,Rich and flavorful,France,Grand Cru,Maule Valley,Chianti,Winery B,Chardonnay,1
+81,84.69,Very Good,Bold and tannic,Italy,Grand Cru,California,Medoc,Winery A,Merlot,2
+90,36.46,Bad,Smooth and fruity,US,Estate,Bordeaux,Napa Valley,Winery D,Merlot,2
+98,12.04,Good,Rich and flavorful,Chile,Estate,Maule Valley,Chianti,Winery C,Syrah,4
+85,113.41,Very Good,Light and crisp,Chile,Grand Cru,Rioja,La Rioja,Winery B,Pinot Noir,3
+93,195.4,Good,Bold and tannic,France,Vintage,Rioja,Chianti,Winery A,Chardonnay,1
+99,80.14,Excellent,Smooth and fruity,US,Estate,Rioja,Curico Valley,Winery E,Pinot Noir,3
+85,77.87,Average,Light and crisp,US,Grand Cru,Maule Valley,La Rioja,Winery B,Cabernet Sauvignon,0
+96,75.38,Very Good,Light and crisp,US,Reserve,Maule Valley,La Rioja,Winery B,Pinot Noir,3
+89,108.9,Bad,Rich and flavorful,Spain,Vintage,Maule Valley,Chianti,Winery D,Cabernet Sauvignon,0
+80,93.73,Excellent,Light and crisp,Spain,Special Edition,California,Curico Valley,Winery A,Merlot,2
+82,177.18,Very Good,Light and crisp,France,Grand Cru,Bordeaux,Napa Valley,Winery D,Merlot,2
+87,106.05,Excellent,Light and crisp,US,Grand Cru,Rioja,Chianti,Winery D,Syrah,4
+87,106.47,Bad,Light and crisp,US,Vintage,California,Napa Valley,Winery C,Pinot Noir,3
+99,36.29,Very Good,Bold and tannic,Chile,Estate,Rioja,Chianti,Winery E,Pinot Noir,3
+94,196.72,Bad,Bold and tannic,Chile,Estate,California,Napa Valley,Winery B,Cabernet Sauvignon,0
+86,57.49,Good,Bold and tannic,France,Estate,Maule Valley,Chianti,Winery A,Merlot,2
+90,23.94,Bad,Bold and tannic,US,Special Edition,Rioja,La Rioja,Winery E,Cabernet Sauvignon,0
+86,136.0,Good,Smooth and fruity,France,Vintage,Maule Valley,Medoc,Winery E,Merlot,2
+83,123.12,Very Good,Bold and tannic,Chile,Vintage,Rioja,La Rioja,Winery A,Cabernet Sauvignon,0
+91,88.88,Good,Light and crisp,Chile,Estate,Tuscany,Napa Valley,Winery E,Merlot,2
+85,90.22,Very Good,Bold and tannic,Spain,Estate,California,Curico Valley,Winery C,Cabernet Sauvignon,0
+93,159.16,Very Good,Bold and tannic,France,Reserve,Tuscany,La Rioja,Winery E,Merlot,2
+91,47.19,Average,Rich and flavorful,France,Reserve,California,Medoc,Winery C,Cabernet Sauvignon,0
+90,165.85,Very Good,Light and crisp,US,Grand Cru,Bordeaux,Napa Valley,Winery B,Pinot Noir,3
+98,133.26,Good,Bold and tannic,US,Grand Cru,Rioja,La Rioja,Winery B,Syrah,4
+84,89.6,Average,Bold and tannic,Spain,Vintage,Bordeaux,Chianti,Winery D,Cabernet Sauvignon,0
+93,97.03,Average,Bold and tannic,Italy,Vintage,Bordeaux,Curico Valley,Winery C,Syrah,4
+95,58.76,Very Good,Smooth and fruity,Italy,Special Edition,California,Napa Valley,Winery B,Pinot Noir,3
+92,152.9,Bad,Bold and tannic,Italy,Special Edition,Tuscany,La Rioja,Winery E,Pinot Noir,3
+99,107.45,Bad,Rich and flavorful,France,Reserve,Maule Valley,Napa Valley,Winery A,Merlot,2
+83,70.96,Average,Light and crisp,France,Grand Cru,California,Chianti,Winery A,Syrah,4
+90,123.25,Very Good,Light and crisp,Chile,Reserve,Maule Valley,Medoc,Winery C,Chardonnay,1
+96,199.19,Bad,Bold and tannic,France,Reserve,Bordeaux,La Rioja,Winery D,Merlot,2
+86,92.7,Very Good,Bold and tannic,France,Grand Cru,Maule Valley,Napa Valley,Winery E,Syrah,4
+93,184.93,Very Good,Bold and tannic,France,Special Edition,Tuscany,Napa Valley,Winery C,Cabernet Sauvignon,0
+90,75.55,Average,Light and crisp,Spain,Grand Cru,California,Napa Valley,Winery A,Cabernet Sauvignon,0
+88,20.4,Average,Light and crisp,France,Estate,Tuscany,Medoc,Winery C,Pinot Noir,3
+92,48.81,Excellent,Smooth and fruity,US,Estate,Tuscany,Napa Valley,Winery E,Chardonnay,1
+97,89.55,Bad,Rich and flavorful,US,Estate,California,Curico Valley,Winery B,Cabernet Sauvignon,0
+90,51.73,Bad,Smooth and fruity,Chile,Vintage,Tuscany,Curico Valley,Winery E,Syrah,4
+94,10.04,Bad,Rich and flavorful,Spain,Special Edition,Rioja,Napa Valley,Winery B,Syrah,4
+98,183.85,Good,Smooth and fruity,US,Special Edition,Rioja,Curico Valley,Winery B,Cabernet Sauvignon,0
+80,170.34,Very Good,Light and crisp,Spain,Vintage,Rioja,La Rioja,Winery B,Syrah,4
+83,151.04,Average,Smooth and fruity,Spain,Reserve,Maule Valley,Curico Valley,Winery C,Syrah,4
+93,41.88,Bad,Rich and flavorful,Chile,Estate,Tuscany,Napa Valley,Winery A,Pinot Noir,3
+93,32.87,Excellent,Bold and tannic,Spain,Estate,California,Chianti,Winery C,Chardonnay,1
+82,22.84,Bad,Rich and flavorful,France,Reserve,California,La Rioja,Winery A,Pinot Noir,3
+96,147.57,Very Good,Bold and tannic,Spain,Grand Cru,Maule Valley,Medoc,Winery E,Chardonnay,1
+82,186.47,Very Good,Light and crisp,Chile,Grand Cru,California,Napa Valley,Winery D,Syrah,4
+95,91.8,Average,Rich and flavorful,Chile,Special Edition,Rioja,Medoc,Winery E,Chardonnay,1
+93,32.64,Good,Smooth and fruity,Chile,Vintage,Tuscany,Chianti,Winery C,Syrah,4
+99,107.35,Average,Rich and flavorful,US,Special Edition,California,Medoc,Winery C,Syrah,4
+92,76.28,Bad,Bold and tannic,France,Grand Cru,California,Napa Valley,Winery A,Pinot Noir,3
+94,81.22,Excellent,Light and crisp,US,Reserve,Bordeaux,Napa Valley,Winery C,Pinot Noir,3
+93,128.05,Average,Smooth and fruity,Italy,Special Edition,Bordeaux,Chianti,Winery B,Merlot,2
+98,146.56,Good,Rich and flavorful,France,Estate,Bordeaux,Napa Valley,Winery C,Cabernet Sauvignon,0
+85,31.01,Average,Bold and tannic,Spain,Estate,Tuscany,Chianti,Winery A,Merlot,2
+89,16.76,Very Good,Smooth and fruity,Chile,Reserve,Rioja,Chianti,Winery A,Merlot,2
+94,198.92,Bad,Light and crisp,Italy,Grand Cru,Rioja,Napa Valley,Winery B,Chardonnay,1
+99,54.22,Bad,Smooth and fruity,France,Estate,Rioja,Curico Valley,Winery A,Syrah,4
+85,20.23,Bad,Light and crisp,US,Estate,Tuscany,Chianti,Winery D,Syrah,4
+89,46.08,Bad,Smooth and fruity,Chile,Vintage,Tuscany,Napa Valley,Winery E,Syrah,4
+86,17.4,Bad,Rich and flavorful,US,Special Edition,Bordeaux,Curico Valley,Winery C,Cabernet Sauvignon,0
+96,84.44,Bad,Bold and tannic,France,Grand Cru,California,Chianti,Winery D,Chardonnay,1
+97,162.46,Excellent,Rich and flavorful,France,Special Edition,Maule Valley,Curico Valley,Winery C,Chardonnay,1
+96,74.84,Good,Rich and flavorful,Italy,Grand Cru,Maule Valley,La Rioja,Winery D,Syrah,4
+88,94.39,Bad,Light and crisp,Spain,Estate,California,La Rioja,Winery C,Merlot,2
+89,138.36,Good,Light and crisp,US,Vintage,Bordeaux,Curico Valley,Winery B,Cabernet Sauvignon,0
+89,106.69,Bad,Light and crisp,Italy,Special Edition,California,Chianti,Winery A,Merlot,2
+86,173.67,Average,Rich and flavorful,Chile,Estate,California,Napa Valley,Winery A,Pinot Noir,3
+95,174.55,Bad,Smooth and fruity,Spain,Grand Cru,Maule Valley,Medoc,Winery B,Chardonnay,1
+97,11.88,Very Good,Smooth and fruity,Italy,Special Edition,Bordeaux,Napa Valley,Winery D,Chardonnay,1
+85,157.83,Excellent,Rich and flavorful,US,Special Edition,Tuscany,Medoc,Winery E,Merlot,2
+99,97.54,Average,Rich and flavorful,France,Estate,Maule Valley,Medoc,Winery D,Cabernet Sauvignon,0
+80,197.88,Average,Bold and tannic,Chile,Special Edition,Tuscany,Chianti,Winery A,Chardonnay,1
+80,101.81,Very Good,Light and crisp,US,Vintage,Bordeaux,Curico Valley,Winery E,Merlot,2
+91,197.51,Bad,Light and crisp,Spain,Vintage,California,Napa Valley,Winery C,Cabernet Sauvignon,0
+81,153.37,Excellent,Rich and flavorful,Spain,Estate,Rioja,Curico Valley,Winery E,Merlot,2
+83,57.23,Average,Rich and flavorful,France,Grand Cru,Rioja,La Rioja,Winery D,Cabernet Sauvignon,0
+96,112.3,Excellent,Smooth and fruity,France,Estate,Bordeaux,Chianti,Winery B,Syrah,4
+83,198.51,Average,Rich and flavorful,Chile,Vintage,Rioja,Chianti,Winery C,Cabernet Sauvignon,0
+90,172.93,Bad,Smooth and fruity,Chile,Reserve,Tuscany,La Rioja,Winery D,Pinot Noir,3
+83,28.5,Average,Rich and flavorful,France,Reserve,Rioja,Napa Valley,Winery C,Syrah,4
+80,144.21,Average,Bold and tannic,France,Special Edition,Bordeaux,La Rioja,Winery E,Merlot,2
+86,75.66,Good,Bold and tannic,Spain,Special Edition,Bordeaux,Napa Valley,Winery A,Syrah,4
+97,11.33,Bad,Smooth and fruity,France,Reserve,Tuscany,Medoc,Winery D,Syrah,4
+88,86.66,Very Good,Light and crisp,Italy,Vintage,Rioja,Chianti,Winery B,Merlot,2
+82,54.6,Very Good,Bold and tannic,US,Special Edition,Rioja,Napa Valley,Winery E,Merlot,2
+87,165.59,Bad,Smooth and fruity,France,Estate,California,Curico Valley,Winery D,Pinot Noir,3
+98,74.09,Very Good,Rich and flavorful,Chile,Estate,Maule Valley,Curico Valley,Winery B,Merlot,2
+83,167.23,Bad,Rich and flavorful,Italy,Vintage,Bordeaux,Chianti,Winery D,Chardonnay,1
+97,10.11,Very Good,Smooth and fruity,Chile,Special Edition,California,La Rioja,Winery E,Chardonnay,1
+99,68.49,Good,Light and crisp,Italy,Estate,Bordeaux,La Rioja,Winery D,Pinot Noir,3
+90,55.82,Very Good,Smooth and fruity,France,Special Edition,California,Napa Valley,Winery C,Cabernet Sauvignon,0
+93,54.38,Average,Smooth and fruity,US,Special Edition,Maule Valley,La Rioja,Winery E,Cabernet Sauvignon,0
+97,22.96,Bad,Bold and tannic,Chile,Estate,California,Chianti,Winery D,Chardonnay,1
+95,45.55,Excellent,Smooth and fruity,Italy,Reserve,Bordeaux,Napa Valley,Winery A,Merlot,2
+82,115.55,Excellent,Smooth and fruity,Spain,Estate,Rioja,Medoc,Winery D,Pinot Noir,3
+94,65.36,Bad,Rich and flavorful,France,Vintage,Bordeaux,La Rioja,Winery C,Cabernet Sauvignon,0
+83,89.31,Good,Bold and tannic,US,Grand Cru,Tuscany,La Rioja,Winery B,Cabernet Sauvignon,0
+84,81.6,Very Good,Rich and flavorful,France,Estate,Tuscany,Napa Valley,Winery B,Syrah,4
+96,176.42,Good,Rich and flavorful,Spain,Special Edition,Tuscany,Curico Valley,Winery B,Chardonnay,1
+86,182.01,Excellent,Light and crisp,US,Special Edition,Tuscany,La Rioja,Winery A,Merlot,2
+95,103.66,Bad,Light and crisp,Spain,Estate,Maule Valley,Chianti,Winery C,Pinot Noir,3
+93,72.73,Bad,Bold and tannic,France,Grand Cru,Rioja,La Rioja,Winery E,Cabernet Sauvignon,0
+95,30.29,Good,Bold and tannic,Italy,Estate,Rioja,Medoc,Winery B,Syrah,4
+86,191.15,Good,Light and crisp,France,Grand Cru,Bordeaux,La Rioja,Winery C,Chardonnay,1
+88,21.44,Very Good,Light and crisp,France,Grand Cru,California,Curico Valley,Winery D,Chardonnay,1
+83,66.55,Average,Light and crisp,France,Vintage,Bordeaux,La Rioja,Winery A,Pinot Noir,3
+90,66.63,Average,Light and crisp,Chile,Special Edition,Bordeaux,Napa Valley,Winery C,Cabernet Sauvignon,0
+81,70.88,Very Good,Light and crisp,Spain,Special Edition,Bordeaux,La Rioja,Winery C,Pinot Noir,3
+91,41.21,Average,Rich and flavorful,Spain,Grand Cru,Bordeaux,Curico Valley,Winery E,Pinot Noir,3
+91,158.8,Excellent,Bold and tannic,Spain,Special Edition,Rioja,Napa Valley,Winery C,Syrah,4
+83,33.27,Average,Rich and flavorful,Chile,Reserve,California,Chianti,Winery E,Chardonnay,1
+97,130.63,Very Good,Rich and flavorful,Italy,Grand Cru,Bordeaux,Napa Valley,Winery A,Merlot,2
+86,33.53,Average,Smooth and fruity,France,Special Edition,Rioja,Medoc,Winery A,Chardonnay,1
+80,23.4,Bad,Rich and flavorful,Italy,Reserve,Bordeaux,Napa Valley,Winery D,Chardonnay,1
+92,182.79,Good,Light and crisp,Chile,Vintage,Tuscany,Chianti,Winery E,Syrah,4
+85,46.12,Excellent,Light and crisp,Spain,Special Edition,Bordeaux,La Rioja,Winery E,Merlot,2
+85,166.04,Bad,Smooth and fruity,France,Reserve,Bordeaux,Napa Valley,Winery B,Cabernet Sauvignon,0
+91,113.48,Bad,Smooth and fruity,US,Estate,Maule Valley,Napa Valley,Winery B,Merlot,2
+87,24.79,Very Good,Smooth and fruity,US,Estate,Tuscany,Napa Valley,Winery D,Cabernet Sauvignon,0
+98,191.54,Good,Smooth and fruity,Italy,Reserve,California,Napa Valley,Winery A,Merlot,2
+84,56.92,Good,Smooth and fruity,Spain,Grand Cru,Bordeaux,Chianti,Winery B,Pinot Noir,3
+97,173.33,Excellent,Rich and flavorful,US,Grand Cru,California,Curico Valley,Winery C,Merlot,2
+84,42.07,Very Good,Smooth and fruity,Italy,Special Edition,Tuscany,Curico Valley,Winery A,Syrah,4
+89,172.25,Excellent,Rich and flavorful,Chile,Estate,Bordeaux,Napa Valley,Winery C,Cabernet Sauvignon,0
+80,12.51,Average,Bold and tannic,Italy,Grand Cru,Maule Valley,Chianti,Winery E,Chardonnay,1
+89,107.24,Bad,Smooth and fruity,Italy,Grand Cru,Rioja,Chianti,Winery A,Syrah,4
+84,156.19,Excellent,Smooth and fruity,Italy,Estate,Maule Valley,Napa Valley,Winery D,Cabernet Sauvignon,0
+91,187.61,Bad,Rich and flavorful,France,Vintage,Maule Valley,Medoc,Winery E,Cabernet Sauvignon,0
+86,182.75,Very Good,Bold and tannic,Italy,Grand Cru,Rioja,Napa Valley,Winery E,Chardonnay,1
+88,165.73,Average,Rich and flavorful,Italy,Reserve,Rioja,Medoc,Winery C,Pinot Noir,3
+91,178.76,Very Good,Rich and flavorful,France,Special Edition,Rioja,Napa Valley,Winery E,Syrah,4
+80,47.85,Average,Smooth and fruity,France,Grand Cru,Bordeaux,Medoc,Winery B,Chardonnay,1
+90,64.0,Average,Light and crisp,Chile,Grand Cru,California,Medoc,Winery A,Chardonnay,1
+94,64.9,Bad,Light and crisp,Spain,Vintage,California,Napa Valley,Winery B,Pinot Noir,3
+81,81.64,Very Good,Rich and flavorful,US,Reserve,Rioja,Medoc,Winery C,Syrah,4
+99,84.73,Very Good,Smooth and fruity,US,Special Edition,Maule Valley,La Rioja,Winery C,Chardonnay,1
+86,113.47,Excellent,Bold and tannic,Italy,Grand Cru,Tuscany,Curico Valley,Winery A,Pinot Noir,3
+91,40.38,Very Good,Light and crisp,Chile,Special Edition,Rioja,Chianti,Winery E,Syrah,4
+97,141.34,Excellent,Bold and tannic,Italy,Estate,Maule Valley,Medoc,Winery D,Merlot,2
+82,41.84,Good,Light and crisp,US,Grand Cru,Maule Valley,Medoc,Winery C,Cabernet Sauvignon,0
+86,68.96,Good,Smooth and fruity,France,Grand Cru,Bordeaux,Chianti,Winery A,Pinot Noir,3
+90,105.64,Good,Rich and flavorful,Spain,Estate,Bordeaux,Medoc,Winery D,Cabernet Sauvignon,0
+97,161.32,Very Good,Bold and tannic,Chile,Vintage,California,Chianti,Winery E,Merlot,2
+91,150.5,Very Good,Bold and tannic,France,Grand Cru,California,Napa Valley,Winery C,Chardonnay,1
+85,132.65,Excellent,Rich and flavorful,Spain,Special Edition,Tuscany,La Rioja,Winery A,Chardonnay,1
+84,39.6,Average,Bold and tannic,Chile,Reserve,Tuscany,La Rioja,Winery A,Syrah,4
+80,113.94,Excellent,Light and crisp,Chile,Special Edition,Tuscany,Curico Valley,Winery A,Pinot Noir,3
+91,26.61,Good,Rich and flavorful,US,Vintage,Tuscany,Medoc,Winery C,Pinot Noir,3
+90,81.7,Excellent,Light and crisp,France,Reserve,Maule Valley,Curico Valley,Winery D,Syrah,4
+83,88.57,Average,Light and crisp,Chile,Special Edition,Maule Valley,Napa Valley,Winery A,Cabernet Sauvignon,0
+97,17.56,Very Good,Smooth and fruity,Chile,Special Edition,California,La Rioja,Winery E,Chardonnay,1
+83,62.06,Excellent,Light and crisp,Spain,Estate,Bordeaux,Napa Valley,Winery A,Chardonnay,1
+96,191.57,Good,Smooth and fruity,US,Vintage,Bordeaux,Napa Valley,Winery D,Pinot Noir,3
+81,191.19,Good,Bold and tannic,Italy,Estate,Rioja,Medoc,Winery C,Pinot Noir,3
+81,76.94,Very Good,Bold and tannic,US,Reserve,Maule Valley,Napa Valley,Winery A,Syrah,4
+91,18.19,Excellent,Smooth and fruity,Italy,Estate,Tuscany,La Rioja,Winery A,Merlot,2
+85,44.03,Average,Light and crisp,France,Vintage,Tuscany,Curico Valley,Winery E,Cabernet Sauvignon,0
+89,84.52,Very Good,Rich and flavorful,France,Grand Cru,Rioja,La Rioja,Winery E,Merlot,2
+95,190.08,Excellent,Rich and flavorful,Chile,Grand Cru,Bordeaux,Medoc,Winery A,Merlot,2
+93,36.83,Bad,Smooth and fruity,France,Reserve,Tuscany,La Rioja,Winery A,Pinot Noir,3
+86,155.07,Good,Bold and tannic,Chile,Grand Cru,Bordeaux,Chianti,Winery E,Pinot Noir,3
+98,30.65,Average,Bold and tannic,US,Estate,Rioja,Curico Valley,Winery D,Pinot Noir,3
+96,196.44,Average,Rich and flavorful,France,Reserve,Bordeaux,Chianti,Winery B,Merlot,2
+88,82.51,Average,Smooth and fruity,US,Vintage,Bordeaux,Chianti,Winery B,Cabernet Sauvignon,0
+92,157.29,Good,Rich and flavorful,US,Reserve,Bordeaux,Medoc,Winery A,Pinot Noir,3
+84,75.09,Excellent,Light and crisp,France,Reserve,Tuscany,Napa Valley,Winery E,Chardonnay,1
+84,129.26,Very Good,Light and crisp,US,Special Edition,California,Chianti,Winery C,Cabernet Sauvignon,0
+89,46.48,Excellent,Smooth and fruity,France,Special Edition,Maule Valley,La Rioja,Winery C,Chardonnay,1
+89,37.74,Very Good,Smooth and fruity,France,Reserve,Bordeaux,Napa Valley,Winery B,Cabernet Sauvignon,0
+86,188.23,Average,Light and crisp,France,Grand Cru,Bordeaux,La Rioja,Winery D,Pinot Noir,3
+94,184.35,Excellent,Bold and tannic,Italy,Special Edition,Bordeaux,La Rioja,Winery B,Syrah,4
+86,178.62,Average,Smooth and fruity,US,Vintage,California,Napa Valley,Winery A,Pinot Noir,3
+94,128.83,Bad,Light and crisp,Spain,Estate,Rioja,Napa Valley,Winery D,Merlot,2
+82,163.57,Average,Light and crisp,France,Special Edition,Tuscany,La Rioja,Winery C,Merlot,2
+98,23.12,Average,Bold and tannic,US,Reserve,California,Medoc,Winery E,Cabernet Sauvignon,0
+89,73.61,Very Good,Bold and tannic,Chile,Grand Cru,Bordeaux,Curico Valley,Winery E,Merlot,2
+94,69.6,Bad,Bold and tannic,France,Estate,California,Curico Valley,Winery A,Pinot Noir,3
+82,130.77,Average,Bold and tannic,France,Special Edition,California,Medoc,Winery B,Chardonnay,1
+85,77.63,Average,Rich and flavorful,Spain,Grand Cru,California,Napa Valley,Winery A,Pinot Noir,3
+91,38.22,Bad,Bold and tannic,Italy,Grand Cru,Rioja,La Rioja,Winery E,Cabernet Sauvignon,0
+94,123.33,Bad,Rich and flavorful,Italy,Grand Cru,Maule Valley,Curico Valley,Winery C,Merlot,2
+85,164.73,Excellent,Smooth and fruity,France,Reserve,Tuscany,La Rioja,Winery E,Chardonnay,1
+92,82.6,Very Good,Light and crisp,US,Vintage,Rioja,Medoc,Winery D,Syrah,4
+98,35.13,Bad,Rich and flavorful,Chile,Grand Cru,Rioja,La Rioja,Winery E,Chardonnay,1
+82,47.37,Bad,Smooth and fruity,Chile,Estate,Maule Valley,Medoc,Winery E,Chardonnay,1
+87,55.12,Good,Smooth and fruity,US,Special Edition,Rioja,Napa Valley,Winery D,Pinot Noir,3
+87,66.98,Bad,Rich and flavorful,France,Estate,California,Medoc,Winery B,Syrah,4
+99,132.13,Very Good,Smooth and fruity,Chile,Reserve,California,Medoc,Winery E,Cabernet Sauvignon,0
+94,124.18,Average,Smooth and fruity,Italy,Reserve,Bordeaux,Curico Valley,Winery A,Cabernet Sauvignon,0
+83,142.26,Average,Rich and flavorful,US,Estate,Rioja,La Rioja,Winery E,Chardonnay,1
+98,78.88,Average,Smooth and fruity,Spain,Vintage,Bordeaux,Curico Valley,Winery A,Chardonnay,1
+82,166.56,Average,Bold and tannic,France,Reserve,Tuscany,Chianti,Winery D,Merlot,2
+92,48.78,Good,Bold and tannic,US,Reserve,California,Medoc,Winery E,Syrah,4
+87,99.12,Bad,Light and crisp,Chile,Estate,Tuscany,Chianti,Winery D,Chardonnay,1
