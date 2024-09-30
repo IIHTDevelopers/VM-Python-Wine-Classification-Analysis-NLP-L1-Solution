@@ -1,0 +1,501 @@
+review_title,review_description,points,price,country,variety,likes,variety_encoded
+Not bad,Fruity and fresh,91,67,Spain,Chardonnay,477,1
+Could be better,Rich and full of flavor,91,35,Italy,Merlot,160,2
+Loved it,Earthy and complex,83,183,Chile,Syrah,126,4
+Could be better,Smooth and balanced,95,38,France,Cabernet Sauvignon,419,0
+Could be better,Smooth and balanced,83,13,Italy,Pinot Noir,81,3
+Amazing taste,Rich and full of flavor,84,108,Chile,Syrah,484,4
+Loved it,Fruity and fresh,84,150,Italy,Cabernet Sauvignon,146,0
+Loved it,Fruity and fresh,87,48,Spain,Merlot,238,2
+Loved it,Earthy and complex,89,24,Spain,Syrah,411,4
+Could be better,Rich and full of flavor,96,128,Spain,Cabernet Sauvignon,423,0
+Not bad,Smooth and balanced,88,38,France,Chardonnay,83,1
+Loved it,Fruity and fresh,98,166,Spain,Chardonnay,112,1
+Could be better,Rich and full of flavor,93,84,Chile,Pinot Noir,224,3
+Amazing taste,Fruity and fresh,87,125,Italy,Cabernet Sauvignon,331,0
+Not bad,Fruity and fresh,88,41,USA,Chardonnay,377,1
+Amazing taste,Smooth and balanced,90,139,Chile,Merlot,242,2
+Not bad,A bit too sour,80,184,Chile,Cabernet Sauvignon,142,0
+Could be better,Earthy and complex,93,93,Spain,Merlot,40,2
+Great wine,Earthy and complex,84,31,France,Merlot,422,2
+Not bad,Smooth and balanced,93,36,Italy,Chardonnay,257,1
+Amazing taste,Fruity and fresh,83,90,France,Cabernet Sauvignon,446,0
+Could be better,Rich and full of flavor,80,135,Italy,Syrah,284,4
+Not bad,Fruity and fresh,98,193,Italy,Chardonnay,104,1
+Great wine,Smooth and balanced,87,101,France,Chardonnay,201,1
+Great wine,Earthy and complex,94,30,Chile,Cabernet Sauvignon,449,0
+Loved it,Fruity and fresh,94,56,Italy,Cabernet Sauvignon,306,0
+Loved it,Earthy and complex,88,110,France,Merlot,330,2
+Amazing taste,Rich and full of flavor,88,196,Italy,Cabernet Sauvignon,460,0
+Not bad,Earthy and complex,89,93,USA,Merlot,265,2
+Not bad,Earthy and complex,99,15,Chile,Chardonnay,397,1
+Loved it,A bit too sour,88,156,Spain,Pinot Noir,209,3
+Not bad,A bit too sour,82,194,Italy,Syrah,50,4
+Not bad,A bit too sour,99,140,USA,Chardonnay,117,1
+Great wine,Earthy and complex,90,10,Spain,Cabernet Sauvignon,200,0
+Loved it,Smooth and balanced,85,67,Spain,Syrah,376,4
+Could be better,Earthy and complex,81,133,Italy,Pinot Noir,38,3
+Loved it,Smooth and balanced,86,175,France,Pinot Noir,27,3
+Could be better,Smooth and balanced,97,24,Italy,Merlot,258,2
+Great wine,A bit too sour,81,171,USA,Syrah,83,4
+Amazing taste,Fruity and fresh,96,198,Spain,Merlot,453,2
+Not bad,Rich and full of flavor,90,172,Italy,Chardonnay,154,1
+Great wine,A bit too sour,91,73,France,Syrah,116,4
+Not bad,A bit too sour,98,34,Italy,Chardonnay,1,1
+Amazing taste,Fruity and fresh,86,33,Chile,Merlot,92,2
+Amazing taste,Rich and full of flavor,99,21,France,Syrah,165,4
+Great wine,Earthy and complex,85,27,USA,Merlot,386,2
+Amazing taste,Earthy and complex,80,24,Spain,Syrah,399,4
+Could be better,A bit too sour,96,36,Italy,Merlot,349,2
+Amazing taste,Rich and full of flavor,90,81,France,Pinot Noir,295,3
+Not bad,A bit too sour,97,69,Chile,Merlot,257,2
+Not bad,Smooth and balanced,96,183,France,Pinot Noir,80,3
+Not bad,A bit too sour,86,154,Chile,Merlot,424,2
+Not bad,A bit too sour,96,102,USA,Syrah,267,4
+Could be better,Earthy and complex,99,62,Spain,Syrah,418,4
+Loved it,Earthy and complex,88,17,USA,Syrah,234,4
+Great wine,Earthy and complex,96,88,Italy,Cabernet Sauvignon,320,0
+Not bad,Smooth and balanced,99,36,France,Chardonnay,310,1
+Amazing taste,Earthy and complex,87,183,Chile,Syrah,300,4
+Not bad,Rich and full of flavor,96,59,Chile,Pinot Noir,462,3
+Amazing taste,Fruity and fresh,86,140,France,Syrah,473,4
+Amazing taste,Rich and full of flavor,80,102,France,Cabernet Sauvignon,356,0
+Not bad,Rich and full of flavor,92,181,Italy,Pinot Noir,212,3
+Could be better,Earthy and complex,98,190,USA,Cabernet Sauvignon,61,0
+Amazing taste,Fruity and fresh,98,33,Chile,Pinot Noir,48,3
+Amazing taste,Fruity and fresh,96,69,Italy,Merlot,126,2
+Not bad,Fruity and fresh,92,131,USA,Chardonnay,222,1
+Amazing taste,Smooth and balanced,95,140,Italy,Chardonnay,408,1
+Amazing taste,Earthy and complex,87,157,Chile,Cabernet Sauvignon,278,0
+Not bad,Fruity and fresh,98,55,France,Chardonnay,407,1
+Not bad,Smooth and balanced,97,24,France,Cabernet Sauvignon,293,0
+Great wine,A bit too sour,80,162,USA,Cabernet Sauvignon,283,0
+Could be better,A bit too sour,93,26,Spain,Cabernet Sauvignon,276,0
+Could be better,Smooth and balanced,98,135,USA,Chardonnay,437,1
+Amazing taste,Smooth and balanced,94,93,Spain,Cabernet Sauvignon,106,0
+Could be better,Earthy and complex,97,18,Italy,Chardonnay,145,1
+Amazing taste,Earthy and complex,81,175,Italy,Cabernet Sauvignon,419,0
+Great wine,A bit too sour,96,185,Chile,Syrah,98,4
+Not bad,Fruity and fresh,97,197,Spain,Cabernet Sauvignon,428,0
+Not bad,A bit too sour,85,72,Chile,Pinot Noir,374,3
+Not bad,Fruity and fresh,98,126,France,Cabernet Sauvignon,72,0
+Could be better,Fruity and fresh,83,139,Spain,Merlot,436,2
+Great wine,Earthy and complex,80,97,USA,Cabernet Sauvignon,485,0
+Could be better,Rich and full of flavor,87,81,France,Pinot Noir,121,3
+Could be better,Rich and full of flavor,86,148,France,Pinot Noir,29,3
+Great wine,Smooth and balanced,82,73,USA,Chardonnay,187,1
+Great wine,Earthy and complex,89,81,France,Syrah,363,4
+Great wine,Fruity and fresh,89,30,Spain,Cabernet Sauvignon,353,0
+Great wine,Rich and full of flavor,98,27,Chile,Chardonnay,287,1
+Not bad,Fruity and fresh,93,73,France,Syrah,450,4
+Loved it,Rich and full of flavor,81,91,Spain,Cabernet Sauvignon,194,0
+Loved it,Rich and full of flavor,80,119,Italy,Merlot,155,2
+Great wine,Rich and full of flavor,97,104,Spain,Cabernet Sauvignon,171,0
+Loved it,Earthy and complex,86,175,Chile,Pinot Noir,334,3
+Loved it,A bit too sour,87,41,Spain,Pinot Noir,40,3
+Great wine,Fruity and fresh,80,20,USA,Merlot,62,2
+Loved it,Earthy and complex,82,54,Chile,Chardonnay,22,1
+Could be better,Earthy and complex,87,42,Italy,Syrah,359,4
+Amazing taste,Earthy and complex,94,111,USA,Cabernet Sauvignon,74,0
+Amazing taste,Earthy and complex,84,178,Spain,Pinot Noir,47,3
+Great wine,Earthy and complex,82,145,Chile,Chardonnay,159,1
+Not bad,Smooth and balanced,98,20,Italy,Merlot,312,2
+Great wine,Fruity and fresh,80,188,USA,Pinot Noir,117,3
+Not bad,Earthy and complex,94,97,Italy,Merlot,99,2
+Amazing taste,Fruity and fresh,87,50,Spain,Cabernet Sauvignon,379,0
+Great wine,Smooth and balanced,81,154,Italy,Syrah,416,4
+Could be better,Smooth and balanced,82,85,France,Pinot Noir,407,3
+Loved it,Fruity and fresh,93,130,USA,Pinot Noir,166,3
+Not bad,Rich and full of flavor,93,55,Italy,Cabernet Sauvignon,289,0
+Loved it,A bit too sour,90,169,Spain,Chardonnay,439,1
+Loved it,Rich and full of flavor,95,89,Spain,Syrah,155,4
+Great wine,Rich and full of flavor,83,63,Italy,Pinot Noir,420,3
+Loved it,Rich and full of flavor,99,95,Spain,Syrah,6,4
+Could be better,Earthy and complex,84,101,Chile,Pinot Noir,195,3
+Loved it,Smooth and balanced,93,157,Chile,Syrah,420,4
+Great wine,Rich and full of flavor,95,170,Chile,Merlot,55,2
+Could be better,Smooth and balanced,97,177,France,Pinot Noir,320,3
+Amazing taste,Fruity and fresh,86,169,Italy,Syrah,192,4
+Loved it,A bit too sour,89,106,France,Chardonnay,46,1
+Great wine,Fruity and fresh,86,11,Spain,Merlot,147,2
+Amazing taste,Fruity and fresh,80,42,France,Merlot,274,2
+Amazing taste,Earthy and complex,98,167,Spain,Chardonnay,156,1
+Not bad,A bit too sour,95,170,Spain,Syrah,201,4
+Could be better,Fruity and fresh,98,86,USA,Cabernet Sauvignon,443,0
+Loved it,Fruity and fresh,83,125,Chile,Chardonnay,401,1
+Great wine,A bit too sour,97,163,Spain,Syrah,475,4
+Not bad,A bit too sour,81,159,USA,Chardonnay,418,1
+Could be better,Fruity and fresh,80,112,Chile,Chardonnay,426,1
+Not bad,A bit too sour,94,175,Spain,Pinot Noir,494,3
+Could be better,Fruity and fresh,84,112,Spain,Syrah,478,4
+Could be better,Fruity and fresh,99,99,France,Cabernet Sauvignon,474,0
+Loved it,Earthy and complex,90,183,France,Pinot Noir,125,3
+Could be better,Rich and full of flavor,89,131,Chile,Chardonnay,394,1
+Not bad,Fruity and fresh,81,152,Spain,Chardonnay,304,1
+Could be better,Smooth and balanced,82,115,Italy,Chardonnay,368,1
+Loved it,Rich and full of flavor,91,128,France,Syrah,293,4
+Loved it,Rich and full of flavor,99,181,Chile,Syrah,63,4
+Not bad,Rich and full of flavor,84,58,Spain,Pinot Noir,324,3
+Amazing taste,Earthy and complex,84,113,Spain,Cabernet Sauvignon,391,0
+Amazing taste,Fruity and fresh,85,70,Italy,Pinot Noir,417,3
+Could be better,Earthy and complex,88,132,Chile,Merlot,175,2
+Great wine,Fruity and fresh,81,143,Spain,Chardonnay,115,1
+Could be better,Earthy and complex,91,18,France,Chardonnay,439,1
+Not bad,Earthy and complex,82,15,Italy,Chardonnay,203,1
+Not bad,Smooth and balanced,99,82,Chile,Pinot Noir,485,3
+Not bad,Earthy and complex,91,112,Italy,Pinot Noir,320,3
+Not bad,A bit too sour,96,169,France,Chardonnay,30,1
+Not bad,Smooth and balanced,89,50,Chile,Pinot Noir,387,3
+Loved it,Earthy and complex,93,123,Italy,Syrah,112,4
+Amazing taste,Rich and full of flavor,96,17,USA,Syrah,364,4
+Not bad,A bit too sour,97,81,France,Pinot Noir,433,3
+Great wine,A bit too sour,98,187,France,Chardonnay,324,1
+Great wine,A bit too sour,96,101,France,Pinot Noir,413,3
+Great wine,Smooth and balanced,93,71,USA,Pinot Noir,375,3
+Great wine,Earthy and complex,88,93,USA,Pinot Noir,343,3
+Loved it,Earthy and complex,87,71,Spain,Merlot,442,2
+Great wine,Rich and full of flavor,81,120,Italy,Syrah,66,4
+Not bad,Rich and full of flavor,92,136,Spain,Cabernet Sauvignon,74,0
+Could be better,A bit too sour,86,16,Italy,Cabernet Sauvignon,44,0
+Great wine,Rich and full of flavor,88,93,USA,Merlot,259,2
+Loved it,Smooth and balanced,90,141,USA,Pinot Noir,153,3
+Loved it,Earthy and complex,93,143,Spain,Merlot,154,2
+Great wine,A bit too sour,83,67,Chile,Merlot,429,2
+Could be better,Rich and full of flavor,92,31,Spain,Chardonnay,362,1
+Great wine,Smooth and balanced,81,163,Italy,Syrah,447,4
+Loved it,Smooth and balanced,84,136,Spain,Cabernet Sauvignon,474,0
+Amazing taste,Rich and full of flavor,90,12,France,Pinot Noir,233,3
+Not bad,Earthy and complex,85,136,Italy,Cabernet Sauvignon,50,0
+Loved it,Rich and full of flavor,97,50,Italy,Cabernet Sauvignon,305,0
+Great wine,A bit too sour,89,197,Chile,Syrah,261,4
+Not bad,Rich and full of flavor,83,115,USA,Cabernet Sauvignon,314,0
+Great wine,Smooth and balanced,88,23,Italy,Cabernet Sauvignon,124,0
+Great wine,Rich and full of flavor,85,21,USA,Merlot,398,2
+Amazing taste,Earthy and complex,81,96,Spain,Syrah,244,4
+Not bad,Fruity and fresh,96,21,France,Chardonnay,29,1
+Not bad,Rich and full of flavor,84,150,Chile,Pinot Noir,425,3
+Amazing taste,Earthy and complex,85,34,USA,Cabernet Sauvignon,484,0
+Loved it,Earthy and complex,91,54,Italy,Pinot Noir,121,3
+Great wine,Smooth and balanced,89,131,USA,Chardonnay,124,1
+Could be better,Earthy and complex,85,156,Italy,Pinot Noir,36,3
+Great wine,Earthy and complex,87,64,USA,Chardonnay,169,1
+Great wine,Earthy and complex,81,109,Italy,Merlot,123,2
+Loved it,Earthy and complex,91,182,Spain,Cabernet Sauvignon,356,0
+Great wine,A bit too sour,92,145,Italy,Chardonnay,34,1
+Amazing taste,A bit too sour,86,128,Italy,Pinot Noir,86,3
+Amazing taste,Smooth and balanced,89,62,France,Cabernet Sauvignon,133,0
+Not bad,Rich and full of flavor,92,192,Italy,Merlot,195,2
+Could be better,Earthy and complex,96,41,France,Cabernet Sauvignon,273,0
+Great wine,Rich and full of flavor,93,60,Chile,Chardonnay,200,1
+Great wine,Rich and full of flavor,81,53,France,Merlot,368,2
+Loved it,Smooth and balanced,90,91,Spain,Pinot Noir,284,3
+Amazing taste,Earthy and complex,80,155,France,Merlot,76,2
+Could be better,Earthy and complex,98,159,Chile,Merlot,58,2
+Not bad,Fruity and fresh,83,46,Spain,Syrah,430,4
+Amazing taste,Rich and full of flavor,98,105,USA,Merlot,125,2
+Not bad,Rich and full of flavor,90,65,USA,Merlot,499,2
+Loved it,A bit too sour,87,114,France,Cabernet Sauvignon,400,0
+Loved it,Fruity and fresh,90,68,France,Pinot Noir,108,3
+Great wine,A bit too sour,83,140,Chile,Cabernet Sauvignon,223,0
+Could be better,A bit too sour,96,165,Chile,Cabernet Sauvignon,495,0
+Not bad,A bit too sour,86,44,Italy,Chardonnay,277,1
+Amazing taste,Smooth and balanced,87,198,Chile,Cabernet Sauvignon,67,0
+Loved it,Smooth and balanced,82,102,Italy,Syrah,68,4
+Great wine,A bit too sour,81,191,Spain,Syrah,164,4
+Great wine,Fruity and fresh,94,106,France,Chardonnay,488,1
+Not bad,Rich and full of flavor,84,144,Spain,Pinot Noir,304,3
+Loved it,Fruity and fresh,80,85,Chile,Pinot Noir,396,3
+Could be better,Earthy and complex,83,58,Spain,Cabernet Sauvignon,161,0
+Loved it,Smooth and balanced,94,103,Spain,Cabernet Sauvignon,364,0
+Not bad,Rich and full of flavor,99,168,Spain,Cabernet Sauvignon,341,0
+Not bad,Rich and full of flavor,98,195,Chile,Pinot Noir,308,3
+Loved it,Earthy and complex,82,198,Spain,Merlot,378,2
+Not bad,Earthy and complex,99,33,Italy,Syrah,342,4
+Loved it,A bit too sour,90,157,Chile,Merlot,434,2
+Amazing taste,Smooth and balanced,96,46,Spain,Merlot,386,2
+Loved it,Smooth and balanced,92,13,Chile,Pinot Noir,41,3
+Loved it,Fruity and fresh,90,117,USA,Merlot,353,2
+Not bad,A bit too sour,81,135,Italy,Chardonnay,415,1
+Not bad,A bit too sour,88,29,Spain,Cabernet Sauvignon,108,0
+Great wine,A bit too sour,81,197,USA,Chardonnay,50,1
+Great wine,A bit too sour,88,161,USA,Syrah,249,4
+Amazing taste,Smooth and balanced,88,59,Chile,Cabernet Sauvignon,496,0
+Great wine,Smooth and balanced,87,186,USA,Merlot,340,2
+Loved it,A bit too sour,96,188,Italy,Syrah,429,4
+Not bad,Fruity and fresh,80,105,Italy,Cabernet Sauvignon,382,0
+Great wine,Rich and full of flavor,90,114,France,Merlot,491,2
+Great wine,Rich and full of flavor,87,173,Italy,Chardonnay,20,1
+Amazing taste,Fruity and fresh,89,126,USA,Cabernet Sauvignon,299,0
+Amazing taste,A bit too sour,86,107,Italy,Merlot,138,2
+Loved it,Smooth and balanced,82,75,Chile,Chardonnay,358,1
+Not bad,Rich and full of flavor,82,88,France,Syrah,323,4
+Amazing taste,Earthy and complex,97,171,USA,Syrah,498,4
+Great wine,Earthy and complex,84,173,France,Syrah,384,4
+Not bad,Fruity and fresh,91,15,USA,Syrah,91,4
+Not bad,A bit too sour,91,48,Chile,Pinot Noir,446,3
+Great wine,Rich and full of flavor,98,179,France,Cabernet Sauvignon,279,0
+Amazing taste,A bit too sour,85,124,Spain,Cabernet Sauvignon,124,0
+Great wine,Rich and full of flavor,81,195,USA,Pinot Noir,482,3
+Not bad,Fruity and fresh,91,134,Spain,Merlot,396,2
+Could be better,Fruity and fresh,98,21,France,Merlot,110,2
+Could be better,Earthy and complex,84,140,Spain,Syrah,353,4
+Loved it,A bit too sour,91,27,Spain,Chardonnay,138,1
+Great wine,Earthy and complex,96,49,France,Merlot,483,2
+Great wine,A bit too sour,96,30,Chile,Chardonnay,434,1
+Loved it,Earthy and complex,89,152,Spain,Cabernet Sauvignon,272,0
+Loved it,Smooth and balanced,96,108,Spain,Chardonnay,98,1
+Loved it,Smooth and balanced,94,35,Chile,Cabernet Sauvignon,251,0
+Not bad,Smooth and balanced,91,17,Spain,Pinot Noir,337,3
+Great wine,Smooth and balanced,95,109,Spain,Pinot Noir,103,3
+Not bad,Rich and full of flavor,98,96,Spain,Syrah,213,4
+Loved it,Smooth and balanced,87,51,Italy,Merlot,248,2
+Great wine,Fruity and fresh,96,181,Chile,Syrah,151,4
+Not bad,Fruity and fresh,84,23,Spain,Cabernet Sauvignon,249,0
+Not bad,Rich and full of flavor,95,87,Chile,Syrah,274,4
+Loved it,Smooth and balanced,85,11,USA,Chardonnay,164,1
+Great wine,Smooth and balanced,87,128,USA,Cabernet Sauvignon,486,0
+Loved it,Smooth and balanced,97,46,Spain,Pinot Noir,340,3
+Great wine,Earthy and complex,91,78,Chile,Merlot,7,2
+Could be better,A bit too sour,94,175,Chile,Cabernet Sauvignon,283,0
+Amazing taste,Earthy and complex,88,50,Chile,Cabernet Sauvignon,4,0
+Amazing taste,A bit too sour,92,71,Italy,Chardonnay,144,1
+Amazing taste,Smooth and balanced,94,69,USA,Merlot,100,2
+Loved it,Smooth and balanced,89,134,Chile,Pinot Noir,163,3
+Could be better,Earthy and complex,95,120,Chile,Cabernet Sauvignon,373,0
+Great wine,Earthy and complex,86,23,Italy,Cabernet Sauvignon,146,0
+Not bad,A bit too sour,96,93,Italy,Chardonnay,63,1
+Great wine,Fruity and fresh,86,139,Chile,Syrah,90,4
+Not bad,A bit too sour,93,79,France,Pinot Noir,116,3
+Great wine,Earthy and complex,94,154,Chile,Merlot,353,2
+Could be better,Earthy and complex,86,132,Chile,Cabernet Sauvignon,266,0
+Not bad,Rich and full of flavor,88,98,Italy,Cabernet Sauvignon,309,0
+Loved it,Earthy and complex,98,37,Italy,Pinot Noir,172,3
+Great wine,Rich and full of flavor,95,75,Chile,Syrah,46,4
+Great wine,Fruity and fresh,87,172,Chile,Cabernet Sauvignon,139,0
+Not bad,A bit too sour,97,14,Chile,Pinot Noir,245,3
+Loved it,A bit too sour,97,177,Italy,Chardonnay,148,1
+Loved it,Rich and full of flavor,99,193,Chile,Syrah,245,4
+Could be better,A bit too sour,86,173,Chile,Merlot,394,2
+Loved it,Earthy and complex,82,54,Spain,Cabernet Sauvignon,486,0
+Loved it,Smooth and balanced,97,160,France,Pinot Noir,475,3
+Loved it,Rich and full of flavor,89,56,USA,Chardonnay,4,1
+Amazing taste,A bit too sour,86,40,France,Merlot,464,2
+Could be better,Rich and full of flavor,96,148,Spain,Pinot Noir,183,3
+Great wine,Rich and full of flavor,93,19,USA,Pinot Noir,19,3
+Not bad,Smooth and balanced,82,127,Chile,Merlot,424,2
+Great wine,Earthy and complex,91,23,Spain,Chardonnay,45,1
+Could be better,Rich and full of flavor,92,89,Chile,Chardonnay,11,1
+Not bad,A bit too sour,81,102,Italy,Syrah,69,4
+Could be better,Fruity and fresh,82,19,Spain,Cabernet Sauvignon,16,0
+Loved it,Rich and full of flavor,84,85,Italy,Merlot,370,2
+Not bad,Rich and full of flavor,90,103,Spain,Merlot,146,2
+Loved it,Smooth and balanced,87,114,Spain,Merlot,153,2
+Great wine,Earthy and complex,91,10,Italy,Chardonnay,303,1
+Great wine,Fruity and fresh,86,142,USA,Cabernet Sauvignon,107,0
+Not bad,A bit too sour,94,29,France,Syrah,235,4
+Not bad,Fruity and fresh,96,17,Chile,Pinot Noir,307,3
+Could be better,A bit too sour,83,180,Spain,Pinot Noir,351,3
+Could be better,Earthy and complex,92,10,Chile,Merlot,69,2
+Loved it,A bit too sour,97,66,Italy,Cabernet Sauvignon,182,0
+Not bad,Smooth and balanced,80,73,Chile,Chardonnay,249,1
+Great wine,Smooth and balanced,95,127,Italy,Cabernet Sauvignon,227,0
+Could be better,Smooth and balanced,92,37,Chile,Cabernet Sauvignon,101,0
+Could be better,Smooth and balanced,89,130,France,Chardonnay,74,1
+Great wine,Fruity and fresh,91,116,France,Merlot,416,2
+Could be better,Earthy and complex,81,174,France,Cabernet Sauvignon,445,0
+Loved it,A bit too sour,82,184,France,Pinot Noir,215,3
+Not bad,A bit too sour,89,174,France,Chardonnay,406,1
+Great wine,Smooth and balanced,81,58,France,Syrah,398,4
+Not bad,Smooth and balanced,92,129,Italy,Merlot,410,2
+Could be better,Rich and full of flavor,92,53,Spain,Chardonnay,202,1
+Could be better,Earthy and complex,97,65,Chile,Syrah,191,4
+Great wine,Fruity and fresh,82,165,France,Syrah,248,4
+Loved it,A bit too sour,86,120,Italy,Cabernet Sauvignon,498,0
+Amazing taste,Rich and full of flavor,93,143,Italy,Cabernet Sauvignon,241,0
+Great wine,Rich and full of flavor,99,117,Italy,Cabernet Sauvignon,464,0
+Amazing taste,A bit too sour,96,198,Spain,Chardonnay,178,1
+Amazing taste,Fruity and fresh,91,157,Chile,Chardonnay,436,1
+Loved it,Rich and full of flavor,95,123,Spain,Merlot,461,2
+Amazing taste,Rich and full of flavor,91,87,USA,Cabernet Sauvignon,218,0
+Amazing taste,Earthy and complex,94,139,Italy,Syrah,81,4
+Loved it,Fruity and fresh,89,46,USA,Pinot Noir,91,3
+Amazing taste,Rich and full of flavor,86,29,France,Merlot,434,2
+Amazing taste,Fruity and fresh,99,35,France,Chardonnay,174,1
+Amazing taste,A bit too sour,84,38,Spain,Merlot,238,2
+Great wine,Smooth and balanced,80,10,Chile,Merlot,259,2
+Great wine,Rich and full of flavor,96,128,USA,Merlot,390,2
+Great wine,Earthy and complex,82,44,Chile,Merlot,364,2
+Loved it,A bit too sour,92,68,Spain,Pinot Noir,162,3
+Could be better,Fruity and fresh,93,78,France,Cabernet Sauvignon,47,0
+Amazing taste,A bit too sour,97,170,Chile,Syrah,328,4
+Amazing taste,Rich and full of flavor,83,188,Chile,Merlot,327,2
+Loved it,Fruity and fresh,97,21,France,Merlot,115,2
+Amazing taste,Smooth and balanced,84,29,USA,Merlot,428,2
+Great wine,A bit too sour,95,190,France,Cabernet Sauvignon,336,0
+Could be better,Rich and full of flavor,80,52,Chile,Chardonnay,336,1
+Not bad,Earthy and complex,93,135,USA,Chardonnay,368,1
+Amazing taste,Fruity and fresh,94,59,USA,Pinot Noir,224,3
+Great wine,A bit too sour,88,38,France,Chardonnay,351,1
+Not bad,A bit too sour,94,194,Chile,Merlot,327,2
+Could be better,Smooth and balanced,96,48,Spain,Merlot,146,2
+Not bad,Smooth and balanced,83,193,Chile,Merlot,62,2
+Great wine,Earthy and complex,91,180,Italy,Pinot Noir,293,3
+Not bad,Earthy and complex,84,187,Spain,Merlot,322,2
+Loved it,Rich and full of flavor,84,160,USA,Chardonnay,442,1
+Not bad,Rich and full of flavor,90,181,Spain,Cabernet Sauvignon,324,0
+Amazing taste,Earthy and complex,85,47,USA,Cabernet Sauvignon,12,0
+Amazing taste,Earthy and complex,86,93,USA,Syrah,430,4
+Loved it,Fruity and fresh,93,160,Spain,Chardonnay,493,1
+Great wine,Smooth and balanced,90,137,USA,Merlot,188,2
+Amazing taste,Rich and full of flavor,92,135,USA,Cabernet Sauvignon,286,0
+Could be better,Smooth and balanced,81,54,Italy,Chardonnay,207,1
+Amazing taste,Smooth and balanced,86,61,Chile,Cabernet Sauvignon,113,0
+Amazing taste,Earthy and complex,99,89,Chile,Merlot,479,2
+Great wine,Fruity and fresh,83,187,Italy,Cabernet Sauvignon,21,0
+Not bad,A bit too sour,87,133,Spain,Syrah,348,4
+Amazing taste,Fruity and fresh,99,128,France,Syrah,213,4
+Loved it,Fruity and fresh,98,17,France,Cabernet Sauvignon,170,0
+Not bad,Smooth and balanced,92,94,France,Chardonnay,322,1
+Could be better,Fruity and fresh,93,138,Italy,Chardonnay,53,1
+Great wine,Rich and full of flavor,89,17,Italy,Chardonnay,393,1
+Could be better,Smooth and balanced,90,166,USA,Cabernet Sauvignon,297,0
+Not bad,Rich and full of flavor,81,105,France,Chardonnay,319,1
+Not bad,A bit too sour,88,111,Spain,Merlot,125,2
+Not bad,Smooth and balanced,96,14,Spain,Syrah,276,4
+Could be better,A bit too sour,82,95,France,Merlot,463,2
+Not bad,Smooth and balanced,85,184,France,Chardonnay,203,1
+Could be better,Earthy and complex,84,43,France,Merlot,193,2
+Not bad,Fruity and fresh,84,64,Italy,Chardonnay,168,1
+Loved it,Earthy and complex,94,128,Italy,Cabernet Sauvignon,151,0
+Not bad,A bit too sour,96,180,Italy,Merlot,34,2
+Could be better,Fruity and fresh,88,167,Chile,Cabernet Sauvignon,183,0
+Amazing taste,Smooth and balanced,82,123,Spain,Cabernet Sauvignon,285,0
+Not bad,Fruity and fresh,99,154,Spain,Pinot Noir,56,3
+Amazing taste,Rich and full of flavor,96,35,USA,Chardonnay,221,1
+Loved it,Fruity and fresh,89,145,Italy,Syrah,302,4
+Great wine,Rich and full of flavor,82,56,Chile,Chardonnay,162,1
+Loved it,Fruity and fresh,97,122,Chile,Syrah,18,4
+Not bad,Rich and full of flavor,97,85,Spain,Chardonnay,369,1
+Amazing taste,A bit too sour,96,81,Italy,Cabernet Sauvignon,263,0
+Amazing taste,Earthy and complex,82,98,USA,Merlot,281,2
+Could be better,Smooth and balanced,82,55,Italy,Merlot,112,2
+Amazing taste,Fruity and fresh,85,42,France,Pinot Noir,487,3
+Could be better,Earthy and complex,92,10,Italy,Syrah,326,4
+Great wine,Smooth and balanced,94,156,France,Syrah,29,4
+Not bad,Smooth and balanced,88,40,France,Syrah,134,4
+Could be better,Rich and full of flavor,83,151,USA,Cabernet Sauvignon,66,0
+Great wine,A bit too sour,93,62,Spain,Syrah,64,4
+Amazing taste,A bit too sour,84,57,Italy,Merlot,291,2
+Amazing taste,Earthy and complex,81,78,France,Cabernet Sauvignon,24,0
+Great wine,A bit too sour,90,114,Italy,Chardonnay,36,1
+Amazing taste,Fruity and fresh,88,99,Spain,Syrah,0,4
+Great wine,A bit too sour,82,199,Spain,Syrah,398,4
+Could be better,Earthy and complex,88,72,Chile,Chardonnay,36,1
+Could be better,A bit too sour,82,82,Spain,Syrah,140,4
+Great wine,Fruity and fresh,81,170,USA,Chardonnay,231,1
+Could be better,Rich and full of flavor,91,178,France,Cabernet Sauvignon,135,0
+Could be better,Earthy and complex,89,98,Chile,Merlot,388,2
+Could be better,Rich and full of flavor,88,185,USA,Chardonnay,187,1
+Loved it,Rich and full of flavor,94,22,Italy,Pinot Noir,127,3
+Not bad,Rich and full of flavor,87,82,France,Chardonnay,200,1
+Amazing taste,Smooth and balanced,84,86,Spain,Syrah,126,4
+Loved it,Smooth and balanced,90,168,France,Cabernet Sauvignon,256,0
+Could be better,Rich and full of flavor,81,77,Italy,Cabernet Sauvignon,163,0
+Great wine,Earthy and complex,94,107,Chile,Chardonnay,34,1
+Could be better,Fruity and fresh,85,134,Chile,Merlot,193,2
+Not bad,Fruity and fresh,87,111,Chile,Pinot Noir,190,3
+Could be better,A bit too sour,84,141,Spain,Cabernet Sauvignon,103,0
+Great wine,Earthy and complex,95,111,USA,Syrah,22,4
+Not bad,Smooth and balanced,97,28,USA,Syrah,264,4
+Could be better,Rich and full of flavor,85,91,France,Merlot,289,2
+Not bad,A bit too sour,84,150,Spain,Cabernet Sauvignon,429,0
+Amazing taste,Fruity and fresh,95,32,Chile,Chardonnay,461,1
+Amazing taste,Smooth and balanced,92,92,Chile,Syrah,383,4
+Could be better,Smooth and balanced,84,118,Italy,Merlot,259,2
+Not bad,Rich and full of flavor,92,84,Italy,Cabernet Sauvignon,413,0
+Great wine,Fruity and fresh,96,138,Chile,Cabernet Sauvignon,478,0
+Could be better,Earthy and complex,97,97,Chile,Cabernet Sauvignon,357,0
+Amazing taste,Smooth and balanced,87,63,Spain,Cabernet Sauvignon,74,0
+Amazing taste,Rich and full of flavor,92,98,USA,Cabernet Sauvignon,354,0
+Could be better,Earthy and complex,98,152,Italy,Syrah,71,4
+Not bad,Fruity and fresh,82,74,USA,Merlot,258,2
+Amazing taste,Smooth and balanced,87,85,Spain,Cabernet Sauvignon,397,0
+Not bad,Earthy and complex,81,152,Chile,Pinot Noir,187,3
+Amazing taste,Earthy and complex,87,158,USA,Pinot Noir,460,3
+Amazing taste,Earthy and complex,92,156,Chile,Merlot,172,2
+Loved it,Smooth and balanced,92,69,Chile,Chardonnay,479,1
+Amazing taste,Smooth and balanced,80,102,France,Chardonnay,289,1
+Great wine,A bit too sour,85,170,USA,Chardonnay,44,1
+Could be better,Fruity and fresh,98,58,USA,Pinot Noir,60,3
+Could be better,Rich and full of flavor,95,44,Chile,Chardonnay,82,1
+Not bad,Earthy and complex,87,181,Spain,Syrah,122,4
+Amazing taste,A bit too sour,80,111,France,Cabernet Sauvignon,357,0
+Great wine,Rich and full of flavor,95,20,Chile,Pinot Noir,15,3
+Not bad,A bit too sour,88,108,Italy,Merlot,65,2
+Loved it,Smooth and balanced,92,119,Italy,Merlot,423,2
+Not bad,Earthy and complex,90,83,France,Cabernet Sauvignon,144,0
+Not bad,Rich and full of flavor,92,183,Spain,Pinot Noir,374,3
+Amazing taste,Rich and full of flavor,89,18,Chile,Chardonnay,161,1
+Loved it,Rich and full of flavor,83,12,USA,Chardonnay,233,1
+Not bad,Rich and full of flavor,85,94,France,Syrah,379,4
+Great wine,Rich and full of flavor,86,35,Spain,Syrah,143,4
+Great wine,A bit too sour,84,81,USA,Chardonnay,357,1
+Could be better,Earthy and complex,90,57,Italy,Merlot,187,2
+Loved it,Smooth and balanced,92,165,Italy,Merlot,321,2
+Loved it,Smooth and balanced,98,126,USA,Syrah,449,4
+Could be better,Smooth and balanced,89,163,France,Cabernet Sauvignon,473,0
+Not bad,Smooth and balanced,89,162,Italy,Chardonnay,12,1
+Loved it,A bit too sour,90,21,Chile,Syrah,183,4
+Great wine,Fruity and fresh,86,142,USA,Syrah,110,4
+Great wine,Earthy and complex,97,57,USA,Chardonnay,414,1
+Amazing taste,Rich and full of flavor,83,46,Italy,Chardonnay,289,1
+Loved it,Fruity and fresh,81,53,France,Merlot,294,2
+Not bad,Smooth and balanced,93,24,Chile,Cabernet Sauvignon,450,0
+Could be better,Fruity and fresh,92,52,France,Cabernet Sauvignon,391,0
+Could be better,Earthy and complex,91,185,Spain,Chardonnay,214,1
+Not bad,Rich and full of flavor,86,96,Spain,Pinot Noir,461,3
+Amazing taste,Rich and full of flavor,81,79,Italy,Syrah,119,4
+Could be better,Earthy and complex,92,55,Italy,Syrah,381,4
+Loved it,Earthy and complex,93,117,Italy,Chardonnay,54,1
+Amazing taste,Smooth and balanced,96,132,Spain,Pinot Noir,26,3
+Loved it,Rich and full of flavor,88,180,France,Merlot,117,2
+Great wine,Fruity and fresh,96,30,France,Chardonnay,220,1
+Amazing taste,A bit too sour,87,160,Italy,Chardonnay,230,1
+Could be better,A bit too sour,81,116,Chile,Syrah,52,4
+Amazing taste,Earthy and complex,92,89,France,Chardonnay,294,1
+Amazing taste,Smooth and balanced,82,56,Spain,Chardonnay,320,1
+Amazing taste,A bit too sour,95,126,USA,Chardonnay,400,1
+Amazing taste,Rich and full of flavor,85,133,USA,Syrah,232,4
+Loved it,Earthy and complex,98,152,USA,Merlot,157,2
+Great wine,Fruity and fresh,86,34,Chile,Merlot,436,2
+Not bad,Earthy and complex,89,45,Italy,Chardonnay,268,1
+Amazing taste,Fruity and fresh,88,60,Spain,Syrah,20,4
+Could be better,Earthy and complex,81,24,Chile,Merlot,402,2
+Amazing taste,Earthy and complex,94,77,Spain,Merlot,52,2
+Could be better,Earthy and complex,84,30,Spain,Merlot,274,2
+Loved it,Fruity and fresh,83,150,Italy,Syrah,312,4
+Could be better,Fruity and fresh,99,28,USA,Syrah,280,4
+Not bad,Earthy and complex,83,43,Italy,Chardonnay,213,1
+Great wine,A bit too sour,97,87,Chile,Cabernet Sauvignon,30,0
+Could be better,Smooth and balanced,83,134,Chile,Merlot,336,2
+Could be better,Smooth and balanced,96,126,Chile,Cabernet Sauvignon,182,0
+Great wine,Smooth and balanced,91,61,Italy,Syrah,22,4
+Not bad,Fruity and fresh,96,36,Spain,Syrah,31,4
+Amazing taste,Fruity and fresh,89,166,Spain,Syrah,445,4
+Could be better,A bit too sour,80,165,France,Cabernet Sauvignon,73,0
+Great wine,Smooth and balanced,97,44,Chile,Syrah,9,4
+Loved it,Smooth and balanced,97,145,Spain,Chardonnay,483,1
+Great wine,Earthy and complex,93,153,France,Syrah,455,4
+Loved it,Fruity and fresh,94,115,Spain,Pinot Noir,53,3
+Not bad,Smooth and balanced,91,173,Chile,Cabernet Sauvignon,51,0
+Amazing taste,A bit too sour,83,167,USA,Pinot Noir,147,3
+Great wine,A bit too sour,82,155,Chile,Syrah,159,4
+Could be better,Smooth and balanced,99,11,Italy,Chardonnay,369,1
+Not bad,Fruity and fresh,91,186,Spain,Merlot,13,2
+Great wine,A bit too sour,86,86,Spain,Syrah,177,4
+Could be better,Earthy and complex,90,141,Italy,Chardonnay,411,1
+Great wine,A bit too sour,80,99,Italy,Cabernet Sauvignon,365,0
+Loved it,Rich and full of flavor,85,98,USA,Pinot Noir,499,3
+Great wine,Rich and full of flavor,94,103,Spain,Pinot Noir,52,3
+Great wine,Fruity and fresh,94,16,Spain,Pinot Noir,407,3
+Great wine,Smooth and balanced,98,104,USA,Cabernet Sauvignon,334,0
