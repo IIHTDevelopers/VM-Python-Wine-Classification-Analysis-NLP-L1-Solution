@@ -1,7 +1,7 @@
 import unittest
 import pandas as pd
 from test.TestUtils import TestUtils
-from WineClassification import process_reviews, train_model, vectorize_and_add_features, TfidfVectorizer
+from winenlptemplate import process_reviews, train_model, vectorize_and_add_features, TfidfVectorizer
 
 class BoundaryTest(unittest.TestCase):
 
